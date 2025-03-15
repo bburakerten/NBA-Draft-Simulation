@@ -1,0 +1,60 @@
+Boston Celtics: Xavier CooksPF, Dewayne DedmonC, Kennedy ChandlerPG, Julian ChampagnieSF, Johnny DavisSG
+Chicago Bulls: Jarred VanderbiltPF, James WisemanC, Lindell WiggintonPG, Isaac OkoroSF, Peyton WatsonSG
+Detroit Pistons: Nathan KnightPF, Gorgui DiengC, Tyus JonesPG, Johnny JuzangSF, Xavier MoonSG
+Toronto Raptors: Aleksej PokusevskiPF, Nick RichardsC, Dennis Smith Jr.PG, Justise WinslowSF, Josh GiddeySG
+Atlanta Hawks: Thaddeus YoungPF, Moses BrownC, Malcolm BrogdonPG, Jaden McDanielsSF, Leandro BolmaroSG
+Miami Heat: Julius RandlePF, Udoka AzubuikeC, Matthew DellavedovaPG, Matt RyanSF, Ochai AgbajiSG
+Milwaukee Bucks: RaiQuan GrayPF, Jakob PoeltlC, D'Angelo RussellPG, Jalen McDanielsSF, A.J. GreenSG
+Brooklyn Nets: Dario Šari?PF, Nerlens NoelC, Daishen NixPG, Deni AvdijaSF, Skylar MaysSG
+Orlando Magic: JT ThorPF, Rudy GobertC, Devon DotsonPG, Taurean PrinceSF, Ayo DosunmuSG
+New York Knicks: Darius BazleyPF, Tony BradleyC, Théo MaledonPG, Louis KingSF, Desmond BaneSG
+Philadelphia 76ers: Jayson TatumPF, Olivier SarrC, Dyson DanielsPG, Malcolm HillSF, Eric GordonSG
+Indiana Pacers: Marcus MorrisPF, Myles TurnerC, Cole AnthonyPG, Otto Porter Jr.SF, Gary Trent Jr.SG
+Washington Wizards: Paolo BancheroPF, Khem BirchC, Kemba WalkerPG, Ousmane DiengSF, Matisse ThybulleSG
+Charlotte Hornets: Kenrich WilliamsPF, Steven AdamsC, Jamal MurrayPG, Torrey CraigSF, Josh GreenSG
+Cleveland Cavaliers: John CollinsPF, Neemias QuetaC, Killian HayesPG, Franz WagnerSF, Donovan MitchellSG
+Chicago Bulls: Bobby PortisPF, Jusuf Nurki?C, Trae YoungPG, De'Andre HunterSF, Terry RozierSG
+New York Knicks: Giannis AntetokounmpoPF, Jaxson HayesC, T.J. McConnellPG, Andre IguodalaSF, Gabe YorkSG
+Orlando Magic: Santi AldamaPF, Joel EmbiidC, Jrue HolidayPG, Kawhi LeonardSF, Terrence RossSG
+Cleveland Cavaliers: Vlatko ?an?arPF, Ivica ZubacC, Derrick RosePG, Jabari WalkerSF, Donovan MitchellSG
+Indiana Pacers: Draymond GreenPF, Udoka AzubuikeC, Alex CarusoPG, Deni AvdijaSF, Rodney McGruderSG
+Charlotte Hornets: Jerami GrantPF, Sandro MamukelashviliC, Daishen NixPG, Ousmane DiengSF, Desmond BaneSG
+Toronto Raptors: David RoddyPF, Moritz WagnerC, Dennis Smith Jr.PG, Jalen McDanielsSF, Eric GordonSG
+Brooklyn Nets: Kenneth Lofton Jr.PF, Brook LopezC, TyTy Washington Jr.PG, Dillon BrooksSF, Aaron WigginsSG
+Washington Wizards: Rudy GayPF, Chimezie MetuC, Cade CunninghamPG, Jae'Sean TateSF, Josh OkogieSG
+Boston Celtics: Bojan Bogdanovi?PF, Bam AdebayoC, Tyus JonesPG, Torrey CraigSF, Derrick WhiteSG
+Miami Heat: Thaddeus YoungPF, Marvin Bagley IIIC, Cole AnthonyPG, Ron Harper Jr.SF, Gary HarrisSG
+Philadelphia 76ers: Kyle KuzmaPF, Dwight PowellC, Lindell WiggintonPG, Herbert JonesSF, Terance MannSG
+Milwaukee Bucks: Jeremiah Robinson-EarlPF, Onyeka OkongwuC, Shai Gilgeous-AlexanderPG, Isaac OkoroSF, Norman PowellSG
+Atlanta Hawks: Jeremy SochanPF, Dewayne DedmonC, Damian LillardPG, Reggie BullockSF, Jalen GreenSG
+Detroit Pistons: Evan MobleyPF, Isaiah StewartC, Killian HayesPG, Johnny JuzangSF, Shaquille HarrisonSG
+Detroit Pistons: Marcus MorrisPF, Mitchell RobinsonC, Trae YoungPG, Duncan RobinsonSF, Nickeil Alexander-WalkerSG
+Brooklyn Nets: Nicolas BatumPF, Wendell Carter Jr.C, Markelle FultzPG, Jordan HallSF, Amir CoffeySG
+Washington Wizards: Santi AldamaPF, Luke KornetC, Delon WrightPG, Deni AvdijaSF, Tyrese MaxeySG
+Indiana Pacers: Markieff MorrisPF, Drew EubanksC, John WallPG, Jordan SchakelSF, Caris LeVertSG
+Chicago Bulls: Mfiondu KabengelePF, James WisemanC, Kobi SimmonsPG, Ousmane DiengSF, Jay ScrubbSG
+Cleveland Cavaliers: Nathan KnightPF, Mike MuscalaC, Quenton JacksonPG, Danuel House Jr.SF, Gabe YorkSG
+Charlotte Hornets: Isaiah LiversPF, Vernon Carey Jr.C, Tre MannPG, Otto Porter Jr.SF, Duane Washington Jr.SG
+New York Knicks: Jeremy SochanPF, Joel EmbiidC, Dyson DanielsPG, Thanasis AntetokounmpoSF, Quentin GrimesSG
+Boston Celtics: Draymond GreenPF, Anthony DavisC, Spencer DinwiddiePG, Keegan MurraySF, Ayo DosunmuSG
+Atlanta Hawks: Jarrell BrantleyPF, Pascal SiakamC, Jeff DowtinPG, Trey Murphy IIISF, Josh ChristopherSG
+Toronto Raptors: Jeff GreenPF, Cody ZellerC, Mike ConleyPG, Mikal BridgesSF, Luke KennardSG
+Philadelphia 76ers: Trendon WatfordPF, Kai JonesC, Cory JosephPG, Anthony LambSF, Christian BraunSG
+Orlando Magic: Jerami GrantPF, Charles BasseyC, James HardenPG, Franz WagnerSF, Jared RhodenSG
+Miami Heat: Obi ToppinPF, Thomas BryantC, Fred VanVleetPG, Jae'Sean TateSF, Bradley BealSG
+Milwaukee Bucks: Kyle AndersonPF, Marvin Bagley IIIC, Killian HayesPG, Keita Bates-DiopSF, Kendrick NunnSG
+Milwaukee Bucks: Luka Šamani?PF, James WisemanC, George HillPG, Jordan SchakelSF, Will BartonSG
+New York Knicks: Jake LaRaviaPF, Bismack BiyomboC, Dyson DanielsPG, Nassir LittleSF, Wesley MatthewsSG
+Philadelphia 76ers: Obi ToppinPF, Naz ReidC, Payton PritchardPG, De'Andre HunterSF, David Duke Jr.SG
+Boston Celtics: Jeff GreenPF, John ButlerC, Kyrie IrvingPG, Naji MarshallSF, Tyler HerroSG
+Toronto Raptors: Kevin LovePF, Jarrett AllenC, Cade CunninghamPG, Jabari WalkerSF, Bogdan Bogdanovi?SG
+Indiana Pacers: Robert CovingtonPF, Boban Marjanovi?C, Raul NetoPG, Jaden McDanielsSF, Max ChristieSG
+Brooklyn Nets: Grant WilliamsPF, Nick RichardsC, Shai Gilgeous-AlexanderPG, Troy Brown Jr.SF, Terrence RossSG
+Atlanta Hawks: Zion WilliamsonPF, Zach CollinsC, Ricky RubioPG, Jordan HallSF, Jared ButlerSG
+Washington Wizards: Harrison BarnesPF, Jaren Jackson Jr.C, Damian LillardPG, Louis KingSF, Furkan KorkmazSG
+Miami Heat: Kevin KnoxPF, Nikola Vu?evi?C, Vit KrejciPG, Ziaire WilliamsSF, Peyton WatsonSG
+Detroit Pistons: Dean WadePF, Christian KolokoC, Miles McBridePG, Duncan RobinsonSF, Kendall BrownSG
+Cleveland Cavaliers: Darius DaysPF, Kelly OlynykC, R.J. HamptonPG, Jalen JohnsonSF, Bryce McGowensSG
+Charlotte Hornets: Wenyen GabrielPF, Chimezie MetuC, Trae YoungPG, Joe InglesSF, Lindy Waters IIISG
+Orlando Magic: Karl-Anthony TownsPF, Walker KesslerC, Luka Don?i?PG, Aaron NesmithSF, Dalen TerrySG
+Chicago Bulls: Admiral SchofieldPF, Omer YurtsevenC, LaMelo BallPG, Jimmy ButlerSF, Terry RozierSG

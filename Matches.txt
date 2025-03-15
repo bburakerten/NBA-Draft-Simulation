@@ -1,0 +1,1031 @@
+Milwaukee Bucks, 135.45000000000002, Charlotte Hornets, 134.0 Winner: Milwaukee Bucks
+Milwaukee Bucks, 142.0, Cleveland Cavaliers, 151.20000000000002 Winner: Cleveland Cavaliers
+Washington Wizards, 113.4, Indiana Pacers, 134.0 Winner: Indiana Pacers
+Boston Celtics, 94.5, Orlando Magic, 109.0 Winner: Orlando Magic
+Miami Heat, 106.0, Atlanta Hawks, 105.0 Winner: Miami Heat
+Boston Celtics, 70.35000000000001, Miami Heat, 106.0 Winner: Miami Heat
+Philadelphia 76ers, 122.0, Brooklyn Nets, 100.80000000000001 Winner: Philadelphia 76ers
+Chicago Bulls, 105.0, Milwaukee Bucks, 144.0 Winner: Milwaukee Bucks
+Detroit Pistons, 97.65, Brooklyn Nets, 107.0 Winner: Brooklyn Nets
+Boston Celtics, 85.05, Chicago Bulls, 106.0 Winner: Chicago Bulls
+Washington Wizards, 117.0, Boston Celtics, 112.35000000000001 Winner: Washington Wizards
+New York Knicks, 139.65, Detroit Pistons, 105.0 Winner: New York Knicks
+Brooklyn Nets, 95.0, Toronto Raptors, 114.45 Winner: Toronto Raptors
+Charlotte Hornets, 131.25, Orlando Magic, 87.0 Winner: Charlotte Hornets
+Orlando Magic, 102.9, Washington Wizards, 100.0 Winner: Orlando Magic
+Philadelphia 76ers, 128.0, Miami Heat, 127.05000000000001 Winner: Philadelphia 76ers
+Boston Celtics, 102.9, Miami Heat, 97.0 Winner: Boston Celtics
+Brooklyn Nets, 102.0, Washington Wizards, 113.4 Winner: Washington Wizards
+New York Knicks, 125.0, Brooklyn Nets, 108.15 Winner: New York Knicks
+Brooklyn Nets, 124.95, Atlanta Hawks, 104.0 Winner: Brooklyn Nets
+Chicago Bulls, 108.15, Orlando Magic, 99.0 Winner: Chicago Bulls
+Boston Celtics, 76.0, Indiana Pacers, 172.20000000000002 Winner: Indiana Pacers
+Brooklyn Nets, 121.0, Boston Celtics, 99.75 Winner: Brooklyn Nets
+Brooklyn Nets, 126.0, New York Knicks, 107.0 Winner: Brooklyn Nets
+Detroit Pistons, 91.35000000000001, Washington Wizards, 113.0 Winner: Washington Wizards
+Toronto Raptors, 117.0, Washington Wizards, 114.45 Winner: Toronto Raptors
+Your Team, 137.0, Boston Celtics, 97.65 Winner: Your Team
+Your Team, 141.0, Brooklyn Nets, 130.20000000000002 Winner: Your Team
+Miami Heat, 123.9, Cleveland Cavaliers, 131.0 Winner: Cleveland Cavaliers
+Washington Wizards, 97.65, Chicago Bulls, 99.0 Winner: Chicago Bulls
+Your Team, 170.1, Detroit Pistons, 93.0 Winner: Your Team
+Charlotte Hornets, 163.8, Miami Heat, 127.0 Winner: Charlotte Hornets
+Milwaukee Bucks, 144.0, Charlotte Hornets, 135.45000000000002 Winner: Milwaukee Bucks
+New York Knicks, 114.0, Your Team, 155.4 Winner: Your Team
+Atlanta Hawks, 117.60000000000001, Washington Wizards, 108.0 Winner: Atlanta Hawks
+Boston Celtics, 84.0, Washington Wizards, 97.0 Winner: Washington Wizards
+Milwaukee Bucks, 159.0, Cleveland Cavaliers, 168.0 Winner: Cleveland Cavaliers
+Indiana Pacers, 154.0, Boston Celtics, 96.60000000000001 Winner: Indiana Pacers
+Chicago Bulls, 117.60000000000001, Milwaukee Bucks, 140.0 Winner: Milwaukee Bucks
+New York Knicks, 132.0, Orlando Magic, 111.30000000000001 Winner: New York Knicks
+Detroit Pistons, 91.35000000000001, Brooklyn Nets, 113.0 Winner: Brooklyn Nets
+Philadelphia 76ers, 121.0, Atlanta Hawks, 87.15 Winner: Philadelphia 76ers
+Cleveland Cavaliers, 154.35, Indiana Pacers, 126.0 Winner: Cleveland Cavaliers
+Your Team, 133.35, Milwaukee Bucks, 143.0 Winner: Milwaukee Bucks
+Indiana Pacers, 130.20000000000002, Cleveland Cavaliers, 139.0 Winner: Cleveland Cavaliers
+Toronto Raptors, 130.20000000000002, Atlanta Hawks, 95.0 Winner: Toronto Raptors
+Boston Celtics, 94.5, Toronto Raptors, 138.0 Winner: Toronto Raptors
+Charlotte Hornets, 117.0, Philadelphia 76ers, 134.4 Winner: Philadelphia 76ers
+Philadelphia 76ers, 127.0, Charlotte Hornets, 128.1 Winner: Charlotte Hornets
+Milwaukee Bucks, 132.0, Cleveland Cavaliers, 165.9 Winner: Cleveland Cavaliers
+Miami Heat, 103.95, Detroit Pistons, 89.0 Winner: Miami Heat
+Your Team, 132.0, New York Knicks, 129.15 Winner: Your Team
+Boston Celtics, 91.0, Brooklyn Nets, 117.60000000000001 Winner: Brooklyn Nets
+Atlanta Hawks, 99.0, Cleveland Cavaliers, 147.0 Winner: Cleveland Cavaliers
+Milwaukee Bucks, 144.0, Miami Heat, 99.75 Winner: Milwaukee Bucks
+Toronto Raptors, 144.9, Your Team, 122.0 Winner: Toronto Raptors
+Miami Heat, 127.0, Charlotte Hornets, 122.85000000000001 Winner: Miami Heat
+Boston Celtics, 88.2, Milwaukee Bucks, 147.0 Winner: Milwaukee Bucks
+Washington Wizards, 96.0, Detroit Pistons, 106.05000000000001 Winner: Detroit Pistons
+Orlando Magic, 122.85000000000001, Charlotte Hornets, 131.0 Winner: Charlotte Hornets
+Washington Wizards, 95.0, Brooklyn Nets, 122.85000000000001 Winner: Brooklyn Nets
+New York Knicks, 143.0, Indiana Pacers, 147.0 Winner: Indiana Pacers
+Miami Heat, 118.65, Milwaukee Bucks, 134.0 Winner: Milwaukee Bucks
+Your Team, 171.15, Charlotte Hornets, 132.0 Winner: Your Team
+Toronto Raptors, 120.0, Orlando Magic, 103.95 Winner: Toronto Raptors
+Orlando Magic, 113.0, Chicago Bulls, 116.55000000000001 Winner: Chicago Bulls
+Toronto Raptors, 143.85, Washington Wizards, 110.0 Winner: Toronto Raptors
+Brooklyn Nets, 100.0, Milwaukee Bucks, 161.70000000000002 Winner: Milwaukee Bucks
+Detroit Pistons, 96.0, Toronto Raptors, 134.4 Winner: Toronto Raptors
+Atlanta Hawks, 84.0, Philadelphia 76ers, 114.45 Winner: Philadelphia 76ers
+Philadelphia 76ers, 118.0, Orlando Magic, 108.15 Winner: Philadelphia 76ers
+Boston Celtics, 96.60000000000001, Chicago Bulls, 104.0 Winner: Chicago Bulls
+Cleveland Cavaliers, 142.0, New York Knicks, 121.80000000000001 Winner: Cleveland Cavaliers
+Atlanta Hawks, 109.2, Washington Wizards, 100.0 Winner: Atlanta Hawks
+Detroit Pistons, 82.95, Cleveland Cavaliers, 144.0 Winner: Cleveland Cavaliers
+Your Team, 140.0, Philadelphia 76ers, 131.25 Winner: Your Team
+Philadelphia 76ers, 120.75, Milwaukee Bucks, 141.0 Winner: Milwaukee Bucks
+Brooklyn Nets, 105.0, Orlando Magic, 113.4 Winner: Orlando Magic
+Chicago Bulls, 110.25, Cleveland Cavaliers, 146.0 Winner: Cleveland Cavaliers
+Milwaukee Bucks, 137.55, Atlanta Hawks, 89.0 Winner: Milwaukee Bucks
+Detroit Pistons, 86.0, Brooklyn Nets, 136.5 Winner: Brooklyn Nets
+Chicago Bulls, 110.25, Washington Wizards, 124.0 Winner: Washington Wizards
+Philadelphia 76ers, 104.0, Brooklyn Nets, 124.95 Winner: Brooklyn Nets
+Brooklyn Nets, 100.0, Orlando Magic, 114.45 Winner: Orlando Magic
+Boston Celtics, 87.15, Cleveland Cavaliers, 148.0 Winner: Cleveland Cavaliers
+Indiana Pacers, 146.0, Philadelphia 76ers, 135.45000000000002 Winner: Indiana Pacers
+Milwaukee Bucks, 159.0, Philadelphia 76ers, 140.70000000000002 Winner: Milwaukee Bucks
+Philadelphia 76ers, 122.0, Chicago Bulls, 123.9 Winner: Chicago Bulls
+Milwaukee Bucks, 151.20000000000002, Miami Heat, 100.0 Winner: Milwaukee Bucks
+Chicago Bulls, 87.0, Your Team, 129.15 Winner: Your Team
+Chicago Bulls, 102.9, Miami Heat, 104.0 Winner: Miami Heat
+Indiana Pacers, 154.35, Orlando Magic, 101.0 Winner: Indiana Pacers
+Your Team, 123.0, Miami Heat, 117.60000000000001 Winner: Your Team
+Brooklyn Nets, 114.45, Boston Celtics, 89.0 Winner: Brooklyn Nets
+Boston Celtics, 96.0, Atlanta Hawks, 111.30000000000001 Winner: Atlanta Hawks
+Washington Wizards, 105.0, New York Knicks, 113.4 Winner: New York Knicks
+Chicago Bulls, 116.55000000000001, Cleveland Cavaliers, 156.0 Winner: Cleveland Cavaliers
+New York Knicks, 137.55, Detroit Pistons, 86.0 Winner: New York Knicks
+Toronto Raptors, 120.0, Atlanta Hawks, 121.80000000000001 Winner: Atlanta Hawks
+Detroit Pistons, 100.80000000000001, Boston Celtics, 85.0 Winner: Detroit Pistons
+Brooklyn Nets, 113.0, Boston Celtics, 82.95 Winner: Brooklyn Nets
+Orlando Magic, 116.55000000000001, Chicago Bulls, 114.0 Winner: Orlando Magic
+Charlotte Hornets, 122.85000000000001, Atlanta Hawks, 103.0 Winner: Charlotte Hornets
+Milwaukee Bucks, 143.85, Charlotte Hornets, 111.0 Winner: Milwaukee Bucks
+Orlando Magic, 124.95, Detroit Pistons, 107.0 Winner: Orlando Magic
+New York Knicks, 150.0, Brooklyn Nets, 119.7 Winner: New York Knicks
+Philadelphia 76ers, 133.35, Detroit Pistons, 97.0 Winner: Philadelphia 76ers
+Charlotte Hornets, 141.0, Orlando Magic, 112.35000000000001 Winner: Charlotte Hornets
+Atlanta Hawks, 91.35000000000001, Brooklyn Nets, 102.0 Winner: Brooklyn Nets
+New York Knicks, 131.25, Milwaukee Bucks, 143.0 Winner: Milwaukee Bucks
+Chicago Bulls, 91.35000000000001, Detroit Pistons, 69.0 Winner: Chicago Bulls
+Chicago Bulls, 105.0, Washington Wizards, 126.0 Winner: Washington Wizards
+Charlotte Hornets, 128.1, Cleveland Cavaliers, 137.0 Winner: Cleveland Cavaliers
+Chicago Bulls, 91.35000000000001, Cleveland Cavaliers, 129.0 Winner: Cleveland Cavaliers
+Your Team, 147.0, Detroit Pistons, 96.0 Winner: Your Team
+Orlando Magic, 115.0, Indiana Pacers, 159.6 Winner: Indiana Pacers
+Chicago Bulls, 87.15, Detroit Pistons, 85.0 Winner: Chicago Bulls
+Toronto Raptors, 127.0, Detroit Pistons, 94.5 Winner: Toronto Raptors
+Cleveland Cavaliers, 159.6, Orlando Magic, 107.0 Winner: Cleveland Cavaliers
+Philadelphia 76ers, 122.85000000000001, Milwaukee Bucks, 152.0 Winner: Milwaukee Bucks
+Your Team, 147.0, Detroit Pistons, 93.45 Winner: Your Team
+Milwaukee Bucks, 152.25, Boston Celtics, 78.0 Winner: Milwaukee Bucks
+New York Knicks, 106.0, Detroit Pistons, 96.60000000000001 Winner: New York Knicks
+Indiana Pacers, 118.65, Cleveland Cavaliers, 145.0 Winner: Cleveland Cavaliers
+Philadelphia 76ers, 131.0, Brooklyn Nets, 117.60000000000001 Winner: Philadelphia 76ers
+Chicago Bulls, 91.35000000000001, Miami Heat, 103.0 Winner: Miami Heat
+Miami Heat, 118.65, Orlando Magic, 108.0 Winner: Miami Heat
+Philadelphia 76ers, 111.30000000000001, Chicago Bulls, 98.0 Winner: Philadelphia 76ers
+Toronto Raptors, 127.05000000000001, Chicago Bulls, 115.0 Winner: Toronto Raptors
+Cleveland Cavaliers, 132.0, Chicago Bulls, 108.15 Winner: Cleveland Cavaliers
+New York Knicks, 116.0, Boston Celtics, 110.25 Winner: New York Knicks
+Toronto Raptors, 126.0, Charlotte Hornets, 113.4 Winner: Toronto Raptors
+Charlotte Hornets, 130.0, Brooklyn Nets, 110.25 Winner: Charlotte Hornets
+Atlanta Hawks, 100.80000000000001, Brooklyn Nets, 116.0 Winner: Brooklyn Nets
+Milwaukee Bucks, 155.4, Orlando Magic, 127.0 Winner: Milwaukee Bucks
+Toronto Raptors, 122.0, Charlotte Hornets, 148.05 Winner: Charlotte Hornets
+Cleveland Cavaliers, 124.95, Your Team, 124.0 Winner: Cleveland Cavaliers
+Atlanta Hawks, 119.7, Chicago Bulls, 105.0 Winner: Atlanta Hawks
+Milwaukee Bucks, 140.70000000000002, Detroit Pistons, 91.0 Winner: Milwaukee Bucks
+Indiana Pacers, 131.25, Orlando Magic, 117.0 Winner: Indiana Pacers
+Indiana Pacers, 137.55, Orlando Magic, 114.0 Winner: Indiana Pacers
+Washington Wizards, 96.0, Miami Heat, 123.9 Winner: Miami Heat
+New York Knicks, 122.85000000000001, Charlotte Hornets, 140.0 Winner: Charlotte Hornets
+Milwaukee Bucks, 138.0, New York Knicks, 126.0 Winner: Milwaukee Bucks
+Cleveland Cavaliers, 158.55, Indiana Pacers, 141.0 Winner: Cleveland Cavaliers
+Atlanta Hawks, 116.0, Charlotte Hornets, 139.65 Winner: Charlotte Hornets
+Brooklyn Nets, 117.60000000000001, Cleveland Cavaliers, 139.0 Winner: Cleveland Cavaliers
+Brooklyn Nets, 115.5, Indiana Pacers, 145.0 Winner: Indiana Pacers
+Atlanta Hawks, 98.7, Indiana Pacers, 122.0 Winner: Indiana Pacers
+Your Team, 141.75, Toronto Raptors, 113.0 Winner: Your Team
+Orlando Magic, 118.65, Detroit Pistons, 89.0 Winner: Orlando Magic
+Boston Celtics, 100.0, Miami Heat, 131.25 Winner: Miami Heat
+Washington Wizards, 128.0, Your Team, 151.20000000000002 Winner: Your Team
+Brooklyn Nets, 109.2, Cleveland Cavaliers, 144.0 Winner: Cleveland Cavaliers
+Boston Celtics, 112.35000000000001, New York Knicks, 110.0 Winner: Boston Celtics
+Philadelphia 76ers, 119.0, Milwaukee Bucks, 156.45000000000002 Winner: Milwaukee Bucks
+Atlanta Hawks, 102.9, Your Team, 134.0 Winner: Your Team
+Atlanta Hawks, 113.4, Chicago Bulls, 106.0 Winner: Atlanta Hawks
+Cleveland Cavaliers, 154.35, Atlanta Hawks, 105.0 Winner: Cleveland Cavaliers
+Miami Heat, 134.4, Philadelphia 76ers, 136.0 Winner: Philadelphia 76ers
+Milwaukee Bucks, 148.0, Philadelphia 76ers, 145.95000000000002 Winner: Milwaukee Bucks
+Toronto Raptors, 136.0, Your Team, 144.9 Winner: Your Team
+Brooklyn Nets, 118.65, Washington Wizards, 102.0 Winner: Brooklyn Nets
+Charlotte Hornets, 165.0, Chicago Bulls, 100.80000000000001 Winner: Charlotte Hornets
+Washington Wizards, 97.0, Atlanta Hawks, 113.4 Winner: Atlanta Hawks
+Cleveland Cavaliers, 147.0, Chicago Bulls, 102.9 Winner: Cleveland Cavaliers
+Chicago Bulls, 127.0, Philadelphia 76ers, 126.0 Winner: Chicago Bulls
+Orlando Magic, 110.0, Washington Wizards, 121.80000000000001 Winner: Washington Wizards
+Milwaukee Bucks, 129.15, Charlotte Hornets, 130.0 Winner: Charlotte Hornets
+Charlotte Hornets, 139.0, Chicago Bulls, 99.75 Winner: Charlotte Hornets
+Miami Heat, 109.0, Chicago Bulls, 122.85000000000001 Winner: Chicago Bulls
+Brooklyn Nets, 116.55000000000001, Orlando Magic, 99.0 Winner: Brooklyn Nets
+New York Knicks, 118.0, Your Team, 127.05000000000001 Winner: Your Team
+Milwaukee Bucks, 153.3, New York Knicks, 115.0 Winner: Milwaukee Bucks
+Chicago Bulls, 96.0, Cleveland Cavaliers, 164.85 Winner: Cleveland Cavaliers
+Charlotte Hornets, 117.60000000000001, Brooklyn Nets, 94.0 Winner: Charlotte Hornets
+Philadelphia 76ers, 105.0, Milwaukee Bucks, 141.75 Winner: Milwaukee Bucks
+Miami Heat, 108.0, Washington Wizards, 106.05000000000001 Winner: Miami Heat
+Miami Heat, 93.45, Milwaukee Bucks, 150.0 Winner: Milwaukee Bucks
+Boston Celtics, 101.85000000000001, Toronto Raptors, 128.0 Winner: Toronto Raptors
+Philadelphia 76ers, 143.0, Charlotte Hornets, 141.75 Winner: Philadelphia 76ers
+Milwaukee Bucks, 145.95000000000002, Boston Celtics, 84.0 Winner: Milwaukee Bucks
+Cleveland Cavaliers, 158.55, New York Knicks, 123.0 Winner: Cleveland Cavaliers
+Milwaukee Bucks, 140.0, Atlanta Hawks, 107.10000000000001 Winner: Milwaukee Bucks
+Milwaukee Bucks, 153.3, Your Team, 127.0 Winner: Milwaukee Bucks
+Orlando Magic, 132.3, Toronto Raptors, 136.0 Winner: Toronto Raptors
+Atlanta Hawks, 90.0, New York Knicks, 148.05 Winner: New York Knicks
+Washington Wizards, 99.75, Orlando Magic, 125.0 Winner: Orlando Magic
+Cleveland Cavaliers, 133.35, Washington Wizards, 105.0 Winner: Cleveland Cavaliers
+Cleveland Cavaliers, 161.70000000000002, Boston Celtics, 83.0 Winner: Cleveland Cavaliers
+Miami Heat, 121.80000000000001, Washington Wizards, 106.0 Winner: Miami Heat
+Detroit Pistons, 108.15, Your Team, 148.0 Winner: Your Team
+Detroit Pistons, 95.55, Chicago Bulls, 112.0 Winner: Chicago Bulls
+New York Knicks, 159.6, Brooklyn Nets, 115.0 Winner: New York Knicks
+Atlanta Hawks, 109.2, Chicago Bulls, 85.0 Winner: Atlanta Hawks
+New York Knicks, 139.65, Charlotte Hornets, 136.0 Winner: New York Knicks
+Indiana Pacers, 129.0, Philadelphia 76ers, 140.70000000000002 Winner: Philadelphia 76ers
+Indiana Pacers, 147.0, Toronto Raptors, 140.0 Winner: Indiana Pacers
+Washington Wizards, 102.9, Miami Heat, 99.0 Winner: Washington Wizards
+Boston Celtics, 95.0, Philadelphia 76ers, 102.9 Winner: Philadelphia 76ers
+Indiana Pacers, 136.0, Boston Celtics, 87.15 Winner: Indiana Pacers
+Miami Heat, 135.45000000000002, New York Knicks, 115.0 Winner: Miami Heat
+Orlando Magic, 123.0, Washington Wizards, 109.2 Winner: Orlando Magic
+Indiana Pacers, 151.20000000000002, Charlotte Hornets, 130.0 Winner: Indiana Pacers
+Cleveland Cavaliers, 156.45000000000002, Charlotte Hornets, 141.0 Winner: Cleveland Cavaliers
+Atlanta Hawks, 126.0, Detroit Pistons, 98.7 Winner: Atlanta Hawks
+Miami Heat, 100.0, Washington Wizards, 89.25 Winner: Miami Heat
+Toronto Raptors, 98.0, Detroit Pistons, 93.45 Winner: Toronto Raptors
+Detroit Pistons, 88.0, Charlotte Hornets, 156.45000000000002 Winner: Charlotte Hornets
+Orlando Magic, 115.5, New York Knicks, 118.0 Winner: New York Knicks
+Charlotte Hornets, 140.0, Miami Heat, 103.95 Winner: Charlotte Hornets
+Boston Celtics, 106.05000000000001, Atlanta Hawks, 109.0 Winner: Atlanta Hawks
+Atlanta Hawks, 99.0, Indiana Pacers, 145.95000000000002 Winner: Indiana Pacers
+Philadelphia 76ers, 139.65, Orlando Magic, 106.0 Winner: Philadelphia 76ers
+Cleveland Cavaliers, 135.45000000000002, Charlotte Hornets, 144.0 Winner: Charlotte Hornets
+Charlotte Hornets, 145.95000000000002, Detroit Pistons, 89.0 Winner: Charlotte Hornets
+Indiana Pacers, 151.20000000000002, Brooklyn Nets, 120.0 Winner: Indiana Pacers
+Detroit Pistons, 92.0, Boston Celtics, 100.80000000000001 Winner: Boston Celtics
+Toronto Raptors, 133.0, Atlanta Hawks, 91.35000000000001 Winner: Toronto Raptors
+Indiana Pacers, 127.05000000000001, Charlotte Hornets, 141.0 Winner: Charlotte Hornets
+Charlotte Hornets, 139.0, Detroit Pistons, 103.95 Winner: Charlotte Hornets
+Orlando Magic, 113.4, Atlanta Hawks, 92.0 Winner: Orlando Magic
+Cleveland Cavaliers, 154.0, Your Team, 131.25 Winner: Cleveland Cavaliers
+Philadelphia 76ers, 117.0, Atlanta Hawks, 120.75 Winner: Atlanta Hawks
+Washington Wizards, 104.0, Detroit Pistons, 101.85000000000001 Winner: Washington Wizards
+Washington Wizards, 100.80000000000001, Miami Heat, 117.0 Winner: Miami Heat
+Philadelphia 76ers, 110.0, Cleveland Cavaliers, 150.15 Winner: Cleveland Cavaliers
+Cleveland Cavaliers, 132.0, Indiana Pacers, 153.3 Winner: Indiana Pacers
+Atlanta Hawks, 95.0, Orlando Magic, 115.5 Winner: Orlando Magic
+Boston Celtics, 77.0, Philadelphia 76ers, 133.35 Winner: Philadelphia 76ers
+New York Knicks, 129.15, Toronto Raptors, 129.0 Winner: New York Knicks
+Washington Wizards, 105.0, Miami Heat, 114.45 Winner: Miami Heat
+Indiana Pacers, 163.8, Toronto Raptors, 119.0 Winner: Indiana Pacers
+Orlando Magic, 120.75, Your Team, 130.0 Winner: Your Team
+Philadelphia 76ers, 117.0, Toronto Raptors, 127.05000000000001 Winner: Toronto Raptors
+Philadelphia 76ers, 122.0, Toronto Raptors, 149.1 Winner: Toronto Raptors
+Toronto Raptors, 141.0, Boston Celtics, 100.80000000000001 Winner: Toronto Raptors
+New York Knicks, 116.0, Detroit Pistons, 97.65 Winner: New York Knicks
+Toronto Raptors, 138.6, New York Knicks, 112.0 Winner: Toronto Raptors
+New York Knicks, 142.0, Atlanta Hawks, 94.5 Winner: New York Knicks
+Indiana Pacers, 137.0, Toronto Raptors, 136.5 Winner: Indiana Pacers
+Washington Wizards, 113.4, Toronto Raptors, 125.0 Winner: Toronto Raptors
+New York Knicks, 122.0, Toronto Raptors, 139.65 Winner: Toronto Raptors
+Toronto Raptors, 126.0, Miami Heat, 117.0 Winner: Toronto Raptors
+Indiana Pacers, 144.0, Philadelphia 76ers, 132.3 Winner: Indiana Pacers
+Indiana Pacers, 121.0, Toronto Raptors, 133.35 Winner: Toronto Raptors
+Toronto Raptors, 144.9, Your Team, 123.0 Winner: Toronto Raptors
+New York Knicks, 141.0, Miami Heat, 108.15 Winner: New York Knicks
+New York Knicks, 125.0, Indiana Pacers, 136.5 Winner: Indiana Pacers
+Miami Heat, 106.0, Your Team, 133.35 Winner: Your Team
+Milwaukee Bucks, 150.15, Indiana Pacers, 136.0 Winner: Milwaukee Bucks
+Indiana Pacers, 134.0, Miami Heat, 107.10000000000001 Winner: Indiana Pacers
+Charlotte Hornets, 127.05000000000001, Toronto Raptors, 140.0 Winner: Toronto Raptors
+New York Knicks, 117.60000000000001, Cleveland Cavaliers, 151.0 Winner: Cleveland Cavaliers
+Your Team, 129.0, Milwaukee Bucks, 141.75 Winner: Milwaukee Bucks
+Toronto Raptors, 148.05, Cleveland Cavaliers, 134.0 Winner: Toronto Raptors
+Indiana Pacers, 107.10000000000001, Your Team, 164.0 Winner: Your Team
+Miami Heat, 120.75, Indiana Pacers, 150.0 Winner: Indiana Pacers
+Your Team, 130.20000000000002, Indiana Pacers, 149.0 Winner: Indiana Pacers
+Indiana Pacers, 117.60000000000001, Your Team, 145.0 Winner: Your Team
+Toronto Raptors, 120.75, Chicago Bulls, 178.0 Winner: Chicago Bulls
+Chicago Bulls, 192.15, Atlanta Hawks, 166.0 Winner: Chicago Bulls
+Your Team, 136.0, Washington Wizards, 132.3 Winner: Your Team
+Charlotte Hornets, 142.8, Miami Heat, 114.0 Winner: Charlotte Hornets
+Toronto Raptors, 127.0, Brooklyn Nets, 123.9 Winner: Toronto Raptors
+Atlanta Hawks, 121.0, Orlando Magic, 168.0 Winner: Orlando Magic
+Boston Celtics, 151.20000000000002, Orlando Magic, 185.0 Winner: Orlando Magic
+Washington Wizards, 131.0, Your Team, 150.15 Winner: Your Team
+Miami Heat, 99.75, New York Knicks, 122.0 Winner: New York Knicks
+Toronto Raptors, 121.0, Indiana Pacers, 97.65 Winner: Toronto Raptors
+Detroit Pistons, 119.0, Boston Celtics, 153.3 Winner: Boston Celtics
+New York Knicks, 112.0, Atlanta Hawks, 162.75 Winner: Atlanta Hawks
+Cleveland Cavaliers, 122.85000000000001, Philadelphia 76ers, 113.0 Winner: Cleveland Cavaliers
+Toronto Raptors, 108.0, Miami Heat, 124.95 Winner: Miami Heat
+Washington Wizards, 110.25, Philadelphia 76ers, 129.0 Winner: Philadelphia 76ers
+Orlando Magic, 174.0, Brooklyn Nets, 114.45 Winner: Orlando Magic
+Cleveland Cavaliers, 138.0, New York Knicks, 151.20000000000002 Winner: New York Knicks
+Toronto Raptors, 117.60000000000001, Chicago Bulls, 184.0 Winner: Chicago Bulls
+Charlotte Hornets, 130.0, Cleveland Cavaliers, 127.05000000000001 Winner: Charlotte Hornets
+Your Team, 160.0, Miami Heat, 117.60000000000001 Winner: Your Team
+Orlando Magic, 178.0, Detroit Pistons, 147.0 Winner: Orlando Magic
+Cleveland Cavaliers, 137.55, Philadelphia 76ers, 134.0 Winner: Cleveland Cavaliers
+Your Team, 134.4, Philadelphia 76ers, 132.0 Winner: Your Team
+Orlando Magic, 192.15, Washington Wizards, 119.0 Winner: Orlando Magic
+Toronto Raptors, 108.15, New York Knicks, 120.0 Winner: New York Knicks
+Orlando Magic, 190.05, Detroit Pistons, 141.0 Winner: Orlando Magic
+Atlanta Hawks, 157.0, Brooklyn Nets, 112.35000000000001 Winner: Atlanta Hawks
+New York Knicks, 128.0, Cleveland Cavaliers, 128.1 Winner: Cleveland Cavaliers
+Miami Heat, 111.30000000000001, Toronto Raptors, 109.0 Winner: Miami Heat
+Miami Heat, 128.1, Your Team, 131.0 Winner: Your Team
+Boston Celtics, 159.6, Atlanta Hawks, 155.0 Winner: Boston Celtics
+Toronto Raptors, 124.95, New York Knicks, 123.0 Winner: Toronto Raptors
+Toronto Raptors, 115.0, Boston Celtics, 148.05 Winner: Boston Celtics
+Indiana Pacers, 118.0, Charlotte Hornets, 139.65 Winner: Charlotte Hornets
+Indiana Pacers, 87.15, Charlotte Hornets, 115.0 Winner: Charlotte Hornets
+Toronto Raptors, 100.80000000000001, Your Team, 128.0 Winner: Your Team
+Cleveland Cavaliers, 114.0, Detroit Pistons, 152.25 Winner: Detroit Pistons
+New York Knicks, 140.70000000000002, Cleveland Cavaliers, 121.0 Winner: New York Knicks
+Detroit Pistons, 123.0, Miami Heat, 129.15 Winner: Miami Heat
+Cleveland Cavaliers, 131.25, Toronto Raptors, 121.0 Winner: Cleveland Cavaliers
+Brooklyn Nets, 123.9, Milwaukee Bucks, 134.0 Winner: Milwaukee Bucks
+Washington Wizards, 126.0, Orlando Magic, 191.1 Winner: Orlando Magic
+Chicago Bulls, 185.85, Cleveland Cavaliers, 129.0 Winner: Chicago Bulls
+Charlotte Hornets, 136.5, Brooklyn Nets, 117.0 Winner: Charlotte Hornets
+Atlanta Hawks, 132.3, Indiana Pacers, 108.0 Winner: Atlanta Hawks
+New York Knicks, 123.0, Cleveland Cavaliers, 132.3 Winner: Cleveland Cavaliers
+Indiana Pacers, 114.0, Charlotte Hornets, 136.5 Winner: Charlotte Hornets
+Philadelphia 76ers, 129.0, Your Team, 132.3 Winner: Your Team
+Detroit Pistons, 145.0, Philadelphia 76ers, 139.65 Winner: Detroit Pistons
+Your Team, 142.0, Brooklyn Nets, 106.05000000000001 Winner: Your Team
+Boston Celtics, 161.70000000000002, Milwaukee Bucks, 141.0 Winner: Boston Celtics
+Indiana Pacers, 113.0, Toronto Raptors, 111.30000000000001 Winner: Indiana Pacers
+Charlotte Hornets, 134.4, Boston Celtics, 147.0 Winner: Boston Celtics
+Brooklyn Nets, 134.4, Milwaukee Bucks, 131.0 Winner: Brooklyn Nets
+Your Team, 171.15, Toronto Raptors, 120.0 Winner: Your Team
+Milwaukee Bucks, 152.0, New York Knicks, 140.70000000000002 Winner: Milwaukee Bucks
+Your Team, 130.0, Toronto Raptors, 119.7 Winner: Your Team
+Cleveland Cavaliers, 118.0, Orlando Magic, 183.75 Winner: Orlando Magic
+Philadelphia 76ers, 108.15, Orlando Magic, 164.0 Winner: Orlando Magic
+Indiana Pacers, 99.75, Toronto Raptors, 114.0 Winner: Toronto Raptors
+Brooklyn Nets, 113.4, Indiana Pacers, 128.0 Winner: Indiana Pacers
+Orlando Magic, 192.15, Charlotte Hornets, 113.0 Winner: Orlando Magic
+Charlotte Hornets, 103.0, Milwaukee Bucks, 155.4 Winner: Milwaukee Bucks
+Toronto Raptors, 109.0, Miami Heat, 113.4 Winner: Miami Heat
+Milwaukee Bucks, 128.1, Your Team, 144.0 Winner: Your Team
+Detroit Pistons, 124.95, Your Team, 158.0 Winner: Your Team
+Chicago Bulls, 165.9, Detroit Pistons, 134.0 Winner: Chicago Bulls
+Charlotte Hornets, 126.0, Cleveland Cavaliers, 137.0 Winner: Cleveland Cavaliers
+Toronto Raptors, 107.0, Your Team, 145.95000000000002 Winner: Your Team
+Miami Heat, 132.0, Boston Celtics, 121.80000000000001 Winner: Miami Heat
+Detroit Pistons, 124.0, Chicago Bulls, 179.55 Winner: Chicago Bulls
+Cleveland Cavaliers, 147.0, Miami Heat, 119.0 Winner: Cleveland Cavaliers
+Orlando Magic, 175.35, New York Knicks, 118.0 Winner: Orlando Magic
+Milwaukee Bucks, 155.0, New York Knicks, 150.15 Winner: Milwaukee Bucks
+Detroit Pistons, 134.4, Atlanta Hawks, 148.0 Winner: Atlanta Hawks
+Milwaukee Bucks, 152.0, Atlanta Hawks, 182.70000000000002 Winner: Atlanta Hawks
+Charlotte Hornets, 103.0, Orlando Magic, 202.65 Winner: Orlando Magic
+Charlotte Hornets, 125.0, Your Team, 152.25 Winner: Your Team
+Toronto Raptors, 109.0, Cleveland Cavaliers, 119.7 Winner: Cleveland Cavaliers
+Philadelphia 76ers, 140.0, Toronto Raptors, 147.0 Winner: Toronto Raptors
+Charlotte Hornets, 111.0, Orlando Magic, 204.75 Winner: Orlando Magic
+Miami Heat, 97.0, Chicago Bulls, 180.6 Winner: Chicago Bulls
+Boston Celtics, 148.0, Charlotte Hornets, 123.9 Winner: Boston Celtics
+Washington Wizards, 123.0, Indiana Pacers, 109.2 Winner: Washington Wizards
+Your Team, 144.9, Chicago Bulls, 192.0 Winner: Chicago Bulls
+Miami Heat, 96.60000000000001, Milwaukee Bucks, 133.0 Winner: Milwaukee Bucks
+New York Knicks, 134.4, Cleveland Cavaliers, 115.0 Winner: New York Knicks
+Miami Heat, 99.75, Detroit Pistons, 143.0 Winner: Detroit Pistons
+Indiana Pacers, 127.05000000000001, Milwaukee Bucks, 149.0 Winner: Milwaukee Bucks
+Brooklyn Nets, 114.0, Milwaukee Bucks, 148.05 Winner: Milwaukee Bucks
+Brooklyn Nets, 104.0, Milwaukee Bucks, 161.70000000000002 Winner: Milwaukee Bucks
+Your Team, 134.0, Cleveland Cavaliers, 137.55 Winner: Cleveland Cavaliers
+Boston Celtics, 176.0, Detroit Pistons, 127.05000000000001 Winner: Boston Celtics
+Indiana Pacers, 121.0, Miami Heat, 105.0 Winner: Indiana Pacers
+Philadelphia 76ers, 123.9, Indiana Pacers, 128.0 Winner: Indiana Pacers
+Washington Wizards, 124.95, Philadelphia 76ers, 139.0 Winner: Philadelphia 76ers
+Toronto Raptors, 133.35, Your Team, 125.0 Winner: Toronto Raptors
+Indiana Pacers, 102.0, Orlando Magic, 212.10000000000002 Winner: Orlando Magic
+Detroit Pistons, 131.25, Orlando Magic, 182.0 Winner: Orlando Magic
+Charlotte Hornets, 118.0, Brooklyn Nets, 114.45 Winner: Charlotte Hornets
+Charlotte Hornets, 136.0, Brooklyn Nets, 132.3 Winner: Charlotte Hornets
+Indiana Pacers, 112.0, Philadelphia 76ers, 129.15 Winner: Philadelphia 76ers
+Cleveland Cavaliers, 131.25, Orlando Magic, 185.0 Winner: Orlando Magic
+Cleveland Cavaliers, 145.95000000000002, Your Team, 128.0 Winner: Cleveland Cavaliers
+Cleveland Cavaliers, 130.0, Chicago Bulls, 177.45000000000002 Winner: Chicago Bulls
+Charlotte Hornets, 117.0, Washington Wizards, 139.65 Winner: Washington Wizards
+Washington Wizards, 111.30000000000001, Brooklyn Nets, 113.0 Winner: Brooklyn Nets
+Chicago Bulls, 161.0, Boston Celtics, 163.8 Winner: Boston Celtics
+Toronto Raptors, 133.35, Indiana Pacers, 101.0 Winner: Toronto Raptors
+Atlanta Hawks, 159.0, Boston Celtics, 147.0 Winner: Atlanta Hawks
+Milwaukee Bucks, 131.0, Orlando Magic, 179.55 Winner: Orlando Magic
+Boston Celtics, 151.20000000000002, Your Team, 128.0 Winner: Boston Celtics
+Philadelphia 76ers, 141.0, Cleveland Cavaliers, 128.1 Winner: Philadelphia 76ers
+New York Knicks, 148.0, Brooklyn Nets, 107.10000000000001 Winner: New York Knicks
+Atlanta Hawks, 171.15, Detroit Pistons, 132.0 Winner: Atlanta Hawks
+Detroit Pistons, 127.0, Cleveland Cavaliers, 162.75 Winner: Cleveland Cavaliers
+Indiana Pacers, 103.95, Your Team, 141.0 Winner: Your Team
+New York Knicks, 132.0, Toronto Raptors, 129.15 Winner: New York Knicks
+New York Knicks, 148.05, Boston Celtics, 146.0 Winner: New York Knicks
+Chicago Bulls, 159.0, Detroit Pistons, 129.15 Winner: Chicago Bulls
+Boston Celtics, 165.0, Milwaukee Bucks, 144.9 Winner: Boston Celtics
+Miami Heat, 79.0, Detroit Pistons, 154.35 Winner: Detroit Pistons
+Milwaukee Bucks, 125.0, Indiana Pacers, 117.60000000000001 Winner: Milwaukee Bucks
+Charlotte Hornets, 115.5, Boston Celtics, 151.0 Winner: Boston Celtics
+Charlotte Hornets, 121.0, Chicago Bulls, 176.4 Winner: Chicago Bulls
+Charlotte Hornets, 147.0, Detroit Pistons, 131.0 Winner: Charlotte Hornets
+Charlotte Hornets, 129.0, Boston Celtics, 145.95000000000002 Winner: Boston Celtics
+Washington Wizards, 123.0, Miami Heat, 91.35000000000001 Winner: Washington Wizards
+Milwaukee Bucks, 144.9, Miami Heat, 107.0 Winner: Milwaukee Bucks
+Washington Wizards, 134.0, Your Team, 136.5 Winner: Your Team
+Miami Heat, 105.0, Washington Wizards, 106.05000000000001 Winner: Washington Wizards
+Washington Wizards, 120.75, Detroit Pistons, 127.0 Winner: Detroit Pistons
+Orlando Magic, 184.8, New York Knicks, 117.0 Winner: Orlando Magic
+Toronto Raptors, 111.30000000000001, Milwaukee Bucks, 154.0 Winner: Milwaukee Bucks
+Indiana Pacers, 126.0, Your Team, 145.95000000000002 Winner: Your Team
+Brooklyn Nets, 123.0, Atlanta Hawks, 143.85 Winner: Atlanta Hawks
+Philadelphia 76ers, 136.0, Brooklyn Nets, 101.85000000000001 Winner: Philadelphia 76ers
+Chicago Bulls, 177.45000000000002, Washington Wizards, 132.0 Winner: Chicago Bulls
+Charlotte Hornets, 111.0, Milwaukee Bucks, 159.6 Winner: Milwaukee Bucks
+Charlotte Hornets, 138.6, Orlando Magic, 178.0 Winner: Orlando Magic
+Toronto Raptors, 102.9, Orlando Magic, 175.0 Winner: Orlando Magic
+Detroit Pistons, 128.0, Orlando Magic, 187.95000000000002 Winner: Orlando Magic
+Milwaukee Bucks, 128.1, Washington Wizards, 104.0 Winner: Milwaukee Bucks
+Indiana Pacers, 118.65, Milwaukee Bucks, 136.0 Winner: Milwaukee Bucks
+Cleveland Cavaliers, 120.0, Indiana Pacers, 122.85000000000001 Winner: Indiana Pacers
+Philadelphia 76ers, 135.45000000000002, Charlotte Hornets, 117.0 Winner: Philadelphia 76ers
+Atlanta Hawks, 169.05, Detroit Pistons, 148.0 Winner: Atlanta Hawks
+Indiana Pacers, 110.25, Milwaukee Bucks, 138.0 Winner: Milwaukee Bucks
+Philadelphia 76ers, 127.0, Toronto Raptors, 112.35000000000001 Winner: Philadelphia 76ers
+Philadelphia 76ers, 121.0, Milwaukee Bucks, 176.4 Winner: Milwaukee Bucks
+Chicago Bulls, 171.0, Boston Celtics, 155.4 Winner: Chicago Bulls
+Cleveland Cavaliers, 131.25, Philadelphia 76ers, 126.0 Winner: Cleveland Cavaliers
+New York Knicks, 131.25, Atlanta Hawks, 145.0 Winner: Atlanta Hawks
+Atlanta Hawks, 191.1, Chicago Bulls, 177.0 Winner: Atlanta Hawks
+Orlando Magic, 203.0, Toronto Raptors, 107.10000000000001 Winner: Orlando Magic
+Atlanta Hawks, 150.15, Toronto Raptors, 117.0 Winner: Atlanta Hawks
+Cleveland Cavaliers, 133.35, Philadelphia 76ers, 101.0 Winner: Cleveland Cavaliers
+Boston Celtics, 166.0, Charlotte Hornets, 132.3 Winner: Boston Celtics
+Orlando Magic, 182.0, Detroit Pistons, 139.65 Winner: Orlando Magic
+Cleveland Cavaliers, 128.1, Washington Wizards, 129.0 Winner: Washington Wizards
+Indiana Pacers, 114.45, Chicago Bulls, 183.0 Winner: Chicago Bulls
+Indiana Pacers, 113.4, Toronto Raptors, 96.0 Winner: Indiana Pacers
+Chicago Bulls, 182.0, Miami Heat, 113.4 Winner: Chicago Bulls
+New York Knicks, 135.0, Charlotte Hornets, 135.45000000000002 Winner: Charlotte Hornets
+Milwaukee Bucks, 134.0, Brooklyn Nets, 113.4 Winner: Milwaukee Bucks
+Brooklyn Nets, 113.4, Indiana Pacers, 104.0 Winner: Brooklyn Nets
+Chicago Bulls, 182.0, Milwaukee Bucks, 130.20000000000002 Winner: Chicago Bulls
+Milwaukee Bucks, 154.35, Toronto Raptors, 117.0 Winner: Milwaukee Bucks
+Toronto Raptors, 97.0, Milwaukee Bucks, 144.9 Winner: Milwaukee Bucks
+Indiana Pacers, 113.0, Brooklyn Nets, 118.65 Winner: Brooklyn Nets
+Detroit Pistons, 140.0, Cleveland Cavaliers, 145.95000000000002 Winner: Cleveland Cavaliers
+Boston Celtics, 169.0, Toronto Raptors, 113.4 Winner: Boston Celtics
+Cleveland Cavaliers, 131.0, Chicago Bulls, 173.25 Winner: Chicago Bulls
+Charlotte Hornets, 123.9, Detroit Pistons, 133.0 Winner: Detroit Pistons
+Philadelphia 76ers, 109.0, Toronto Raptors, 119.7 Winner: Toronto Raptors
+Milwaukee Bucks, 147.0, Detroit Pistons, 124.95 Winner: Milwaukee Bucks
+Detroit Pistons, 136.5, Miami Heat, 118.0 Winner: Detroit Pistons
+Detroit Pistons, 131.0, Brooklyn Nets, 98.7 Winner: Detroit Pistons
+Charlotte Hornets, 137.55, Atlanta Hawks, 144.0 Winner: Atlanta Hawks
+Atlanta Hawks, 155.4, Charlotte Hornets, 120.0 Winner: Atlanta Hawks
+Milwaukee Bucks, 153.3, Your Team, 159.0 Winner: Your Team
+Miami Heat, 94.0, Charlotte Hornets, 132.3 Winner: Charlotte Hornets
+Cleveland Cavaliers, 120.0, Indiana Pacers, 124.95 Winner: Indiana Pacers
+Orlando Magic, 184.0, Philadelphia 76ers, 116.55000000000001 Winner: Orlando Magic
+New York Knicks, 123.9, Atlanta Hawks, 146.0 Winner: Atlanta Hawks
+Miami Heat, 105.0, Brooklyn Nets, 124.0 Winner: Brooklyn Nets
+Atlanta Hawks, 163.0, Your Team, 126.0 Winner: Atlanta Hawks
+Brooklyn Nets, 145.95000000000002, Boston Celtics, 134.0 Winner: Brooklyn Nets
+Brooklyn Nets, 109.2, Philadelphia 76ers, 128.0 Winner: Philadelphia 76ers
+Boston Celtics, 145.0, Brooklyn Nets, 131.25 Winner: Boston Celtics
+Detroit Pistons, 114.0, Brooklyn Nets, 110.25 Winner: Detroit Pistons
+Orlando Magic, 164.0, Milwaukee Bucks, 139.65 Winner: Orlando Magic
+New York Knicks, 127.05000000000001, Boston Celtics, 156.0 Winner: Boston Celtics
+Chicago Bulls, 182.0, Charlotte Hornets, 111.30000000000001 Winner: Chicago Bulls
+Atlanta Hawks, 150.15, Washington Wizards, 99.0 Winner: Atlanta Hawks
+Your Team, 155.4, Charlotte Hornets, 117.0 Winner: Your Team
+Boston Celtics, 158.55, Chicago Bulls, 186.0 Winner: Chicago Bulls
+Your Team, 145.0, Philadelphia 76ers, 130.20000000000002 Winner: Your Team
+Detroit Pistons, 129.0, New York Knicks, 148.05 Winner: New York Knicks
+Atlanta Hawks, 129.0, New York Knicks, 148.05 Winner: New York Knicks
+Orlando Magic, 182.70000000000002, Your Team, 145.0 Winner: Orlando Magic
+Boston Celtics, 138.0, Orlando Magic, 200.55 Winner: Orlando Magic
+Washington Wizards, 136.5, Brooklyn Nets, 117.0 Winner: Washington Wizards
+Washington Wizards, 122.0, New York Knicks, 138.6 Winner: New York Knicks
+Philadelphia 76ers, 132.0, Your Team, 137.55 Winner: Your Team
+Indiana Pacers, 128.0, Orlando Magic, 168.0 Winner: Orlando Magic
+Chicago Bulls, 185.0, Orlando Magic, 195.3 Winner: Orlando Magic
+Atlanta Hawks, 154.0, Cleveland Cavaliers, 106.05000000000001 Winner: Atlanta Hawks
+Atlanta Hawks, 144.9, Boston Celtics, 138.0 Winner: Atlanta Hawks
+New York Knicks, 140.0, Milwaukee Bucks, 160.65 Winner: Milwaukee Bucks
+Atlanta Hawks, 157.0, Brooklyn Nets, 118.65 Winner: Atlanta Hawks
+Milwaukee Bucks, 131.0, Miami Heat, 101.85000000000001 Winner: Milwaukee Bucks
+Brooklyn Nets, 110.0, Boston Celtics, 166.95000000000002 Winner: Boston Celtics
+Brooklyn Nets, 117.0, Milwaukee Bucks, 156.45000000000002 Winner: Milwaukee Bucks
+Atlanta Hawks, 161.70000000000002, Your Team, 146.0 Winner: Atlanta Hawks
+Atlanta Hawks, 149.0, Chicago Bulls, 189.0 Winner: Chicago Bulls
+Miami Heat, 105.0, New York Knicks, 115.5 Winner: New York Knicks
+Boston Celtics, 164.85, Chicago Bulls, 167.0 Winner: Chicago Bulls
+Washington Wizards, 114.0, Cleveland Cavaliers, 131.25 Winner: Cleveland Cavaliers
+Brooklyn Nets, 102.9, Miami Heat, 110.0 Winner: Miami Heat
+Boston Celtics, 156.0, Cleveland Cavaliers, 117.60000000000001 Winner: Boston Celtics
+Cleveland Cavaliers, 116.55000000000001, Brooklyn Nets, 116.0 Winner: Cleveland Cavaliers
+Brooklyn Nets, 112.35000000000001, Washington Wizards, 128.0 Winner: Washington Wizards
+Detroit Pistons, 109.2, Your Team, 135.0 Winner: Your Team
+Washington Wizards, 122.0, Indiana Pacers, 113.4 Winner: Washington Wizards
+Chicago Bulls, 194.0, Detroit Pistons, 151.20000000000002 Winner: Chicago Bulls
+Boston Celtics, 157.0, New York Knicks, 163.8 Winner: New York Knicks
+Miami Heat, 112.0, Atlanta Hawks, 163.8 Winner: Atlanta Hawks
+Miami Heat, 121.80000000000001, Washington Wizards, 115.0 Winner: Miami Heat
+Indiana Pacers, 95.0, Boston Celtics, 150.15 Winner: Boston Celtics
+Washington Wizards, 127.05000000000001, Atlanta Hawks, 140.0 Winner: Atlanta Hawks
+Indiana Pacers, 110.0, Atlanta Hawks, 138.6 Winner: Atlanta Hawks
+Miami Heat, 113.4, Washington Wizards, 112.0 Winner: Miami Heat
+Atlanta Hawks, 148.0, Your Team, 119.7 Winner: Atlanta Hawks
+Boston Celtics, 156.45000000000002, Indiana Pacers, 115.0 Winner: Boston Celtics
+Chicago Bulls, 190.05, Orlando Magic, 166.0 Winner: Chicago Bulls
+Washington Wizards, 120.0, Miami Heat, 98.7 Winner: Washington Wizards
+New York Knicks, 158.55, Philadelphia 76ers, 127.0 Winner: New York Knicks
+Philadelphia 76ers, 109.0, Boston Celtics, 148.05 Winner: Boston Celtics
+Washington Wizards, 121.80000000000001, Chicago Bulls, 180.0 Winner: Chicago Bulls
+Detroit Pistons, 158.55, New York Knicks, 131.0 Winner: Detroit Pistons
+Philadelphia 76ers, 119.0, Washington Wizards, 123.9 Winner: Washington Wizards
+Washington Wizards, 124.95, Atlanta Hawks, 162.0 Winner: Atlanta Hawks
+Atlanta Hawks, 157.0, Philadelphia 76ers, 139.65 Winner: Atlanta Hawks
+New York Knicks, 155.4, Washington Wizards, 132.0 Winner: New York Knicks
+Miami Heat, 119.0, Chicago Bulls, 174.3 Winner: Chicago Bulls
+Philadelphia 76ers, 146.0, Orlando Magic, 204.75 Winner: Orlando Magic
+Miami Heat, 130.20000000000002, Orlando Magic, 170.0 Winner: Orlando Magic
+New York Knicks, 127.05000000000001, Miami Heat, 111.0 Winner: New York Knicks
+Chicago Bulls, 186.0, Washington Wizards, 103.95 Winner: Chicago Bulls
+Philadelphia 76ers, 135.45000000000002, Chicago Bulls, 165.0 Winner: Chicago Bulls
+Philadelphia 76ers, 123.0, New York Knicks, 123.9 Winner: New York Knicks
+Washington Wizards, 126.0, New York Knicks, 129.0 Winner: New York Knicks
+Philadelphia 76ers, 139.0, Chicago Bulls, 186.9 Winner: Chicago Bulls
+Philadelphia 76ers, 128.1, Chicago Bulls, 182.0 Winner: Chicago Bulls
+Atlanta Hawks, 159.0, Cleveland Cavaliers, 136.5 Winner: Atlanta Hawks
+New York Knicks, 117.0, Boston Celtics, 169.05 Winner: Boston Celtics
+Chicago Bulls, 161.70000000000002, Orlando Magic, 186.0 Winner: Orlando Magic
+Milwaukee Bucks, 153.0, Your Team, 128.1 Winner: Milwaukee Bucks
+Atlanta Hawks, 136.5, Boston Celtics, 129.0 Winner: Atlanta Hawks
+Orlando Magic, 181.65, Milwaukee Bucks, 147.0 Winner: Orlando Magic
+Philadelphia 76ers, 83.0, Washington Wizards, 109.2 Winner: Washington Wizards
+Brooklyn Nets, 125.0, Boston Celtics, 166.95000000000002 Winner: Boston Celtics
+Milwaukee Bucks, 90.0, Brooklyn Nets, 114.45 Winner: Brooklyn Nets
+Milwaukee Bucks, 133.35, Charlotte Hornets, 95.0 Winner: Milwaukee Bucks
+Miami Heat, 143.85, New York Knicks, 124.0 Winner: Miami Heat
+Charlotte Hornets, 91.35000000000001, Indiana Pacers, 99.0 Winner: Indiana Pacers
+Washington Wizards, 129.15, Charlotte Hornets, 100.0 Winner: Washington Wizards
+Boston Celtics, 159.0, Detroit Pistons, 148.05 Winner: Boston Celtics
+Indiana Pacers, 119.7, Milwaukee Bucks, 121.0 Winner: Milwaukee Bucks
+Your Team, 154.35, Orlando Magic, 153.0 Winner: Your Team
+Atlanta Hawks, 117.0, Indiana Pacers, 115.5 Winner: Atlanta Hawks
+Toronto Raptors, 145.0, Miami Heat, 158.55 Winner: Miami Heat
+Boston Celtics, 144.9, Washington Wizards, 116.0 Winner: Boston Celtics
+Cleveland Cavaliers, 103.0, Orlando Magic, 161.70000000000002 Winner: Orlando Magic
+Brooklyn Nets, 106.05000000000001, Charlotte Hornets, 89.0 Winner: Brooklyn Nets
+Charlotte Hornets, 78.75, Toronto Raptors, 128.0 Winner: Toronto Raptors
+Toronto Raptors, 132.3, Philadelphia 76ers, 87.0 Winner: Toronto Raptors
+Detroit Pistons, 126.0, New York Knicks, 139.0 Winner: New York Knicks
+Washington Wizards, 133.35, Milwaukee Bucks, 125.0 Winner: Washington Wizards
+Milwaukee Bucks, 118.65, Orlando Magic, 160.0 Winner: Orlando Magic
+Cleveland Cavaliers, 87.15, Detroit Pistons, 145.0 Winner: Detroit Pistons
+New York Knicks, 126.0, Orlando Magic, 148.0 Winner: Orlando Magic
+Boston Celtics, 161.70000000000002, Milwaukee Bucks, 136.0 Winner: Boston Celtics
+Orlando Magic, 131.0, Washington Wizards, 118.65 Winner: Orlando Magic
+Detroit Pistons, 143.0, Miami Heat, 141.75 Winner: Detroit Pistons
+New York Knicks, 133.0, Philadelphia 76ers, 88.2 Winner: New York Knicks
+Indiana Pacers, 99.0, Detroit Pistons, 150.15 Winner: Detroit Pistons
+Orlando Magic, 134.0, Washington Wizards, 129.15 Winner: Orlando Magic
+Chicago Bulls, 114.0, Your Team, 147.0 Winner: Your Team
+Brooklyn Nets, 126.0, Toronto Raptors, 117.0 Winner: Brooklyn Nets
+Your Team, 112.0, Detroit Pistons, 152.25 Winner: Detroit Pistons
+Your Team, 115.5, Indiana Pacers, 90.0 Winner: Your Team
+Orlando Magic, 152.0, Milwaukee Bucks, 140.70000000000002 Winner: Orlando Magic
+Your Team, 126.0, Orlando Magic, 137.0 Winner: Orlando Magic
+Your Team, 136.5, Detroit Pistons, 142.0 Winner: Detroit Pistons
+Charlotte Hornets, 82.0, Toronto Raptors, 130.20000000000002 Winner: Toronto Raptors
+Miami Heat, 159.6, Orlando Magic, 137.0 Winner: Miami Heat
+Chicago Bulls, 106.05000000000001, New York Knicks, 136.0 Winner: New York Knicks
+Atlanta Hawks, 130.0, Chicago Bulls, 103.95 Winner: Atlanta Hawks
+Your Team, 148.05, Orlando Magic, 182.0 Winner: Orlando Magic
+Washington Wizards, 124.0, Atlanta Hawks, 119.7 Winner: Washington Wizards
+Detroit Pistons, 153.3, Orlando Magic, 147.0 Winner: Detroit Pistons
+Toronto Raptors, 138.6, Charlotte Hornets, 82.0 Winner: Toronto Raptors
+Philadelphia 76ers, 95.55, Cleveland Cavaliers, 96.0 Winner: Cleveland Cavaliers
+Brooklyn Nets, 108.0, New York Knicks, 126.0 Winner: New York Knicks
+Boston Celtics, 168.0, Toronto Raptors, 134.0 Winner: Boston Celtics
+Indiana Pacers, 105.0, Atlanta Hawks, 142.0 Winner: Atlanta Hawks
+Indiana Pacers, 119.0, Orlando Magic, 165.9 Winner: Orlando Magic
+New York Knicks, 141.0, Philadelphia 76ers, 93.45 Winner: New York Knicks
+Your Team, 132.3, Toronto Raptors, 121.0 Winner: Your Team
+Toronto Raptors, 128.1, Philadelphia 76ers, 100.0 Winner: Toronto Raptors
+Chicago Bulls, 97.65, New York Knicks, 123.0 Winner: New York Knicks
+Washington Wizards, 138.0, Your Team, 139.65 Winner: Your Team
+Washington Wizards, 115.5, Charlotte Hornets, 100.0 Winner: Washington Wizards
+Atlanta Hawks, 139.65, Your Team, 117.0 Winner: Atlanta Hawks
+Washington Wizards, 147.0, Atlanta Hawks, 115.5 Winner: Washington Wizards
+Charlotte Hornets, 106.05000000000001, Orlando Magic, 148.0 Winner: Orlando Magic
+Indiana Pacers, 128.1, Milwaukee Bucks, 117.0 Winner: Indiana Pacers
+New York Knicks, 140.70000000000002, Miami Heat, 147.0 Winner: Miami Heat
+Milwaukee Bucks, 100.0, Charlotte Hornets, 93.45 Winner: Milwaukee Bucks
+Milwaukee Bucks, 103.0, Cleveland Cavaliers, 105.0 Winner: Cleveland Cavaliers
+Toronto Raptors, 126.0, Atlanta Hawks, 127.05000000000001 Winner: Atlanta Hawks
+Cleveland Cavaliers, 69.0, Detroit Pistons, 117.60000000000001 Winner: Detroit Pistons
+Chicago Bulls, 95.55, Atlanta Hawks, 131.0 Winner: Atlanta Hawks
+Miami Heat, 171.15, Philadelphia 76ers, 89.0 Winner: Miami Heat
+Cleveland Cavaliers, 88.0, Chicago Bulls, 90.3 Winner: Chicago Bulls
+Philadelphia 76ers, 75.60000000000001, Indiana Pacers, 100.0 Winner: Indiana Pacers
+Milwaukee Bucks, 104.0, Charlotte Hornets, 100.80000000000001 Winner: Milwaukee Bucks
+Your Team, 136.0, Miami Heat, 145.95000000000002 Winner: Miami Heat
+Brooklyn Nets, 108.0, New York Knicks, 156.45000000000002 Winner: New York Knicks
+Orlando Magic, 132.3, Toronto Raptors, 126.0 Winner: Orlando Magic
+Your Team, 130.20000000000002, Charlotte Hornets, 110.0 Winner: Your Team
+New York Knicks, 162.75, Washington Wizards, 109.0 Winner: New York Knicks
+Orlando Magic, 161.0, Milwaukee Bucks, 100.80000000000001 Winner: Orlando Magic
+Indiana Pacers, 88.2, Cleveland Cavaliers, 90.0 Winner: Cleveland Cavaliers
+Indiana Pacers, 106.0, Milwaukee Bucks, 136.5 Winner: Milwaukee Bucks
+Milwaukee Bucks, 160.65, Indiana Pacers, 99.0 Winner: Milwaukee Bucks
+Your Team, 114.0, Chicago Bulls, 88.2 Winner: Your Team
+Philadelphia 76ers, 101.0, Toronto Raptors, 115.5 Winner: Toronto Raptors
+Orlando Magic, 164.85, Indiana Pacers, 107.0 Winner: Orlando Magic
+New York Knicks, 142.8, Boston Celtics, 173.0 Winner: Boston Celtics
+Brooklyn Nets, 106.0, Charlotte Hornets, 95.55 Winner: Brooklyn Nets
+Washington Wizards, 116.0, New York Knicks, 147.0 Winner: New York Knicks
+Atlanta Hawks, 124.95, Cleveland Cavaliers, 97.0 Winner: Atlanta Hawks
+Philadelphia 76ers, 97.65, Orlando Magic, 156.0 Winner: Orlando Magic
+Cleveland Cavaliers, 80.0, Philadelphia 76ers, 88.2 Winner: Philadelphia 76ers
+Chicago Bulls, 103.95, Boston Celtics, 153.0 Winner: Boston Celtics
+Toronto Raptors, 112.35000000000001, Charlotte Hornets, 92.0 Winner: Toronto Raptors
+Atlanta Hawks, 137.55, Chicago Bulls, 85.0 Winner: Atlanta Hawks
+Miami Heat, 171.0, New York Knicks, 122.85000000000001 Winner: Miami Heat
+Indiana Pacers, 116.0, Charlotte Hornets, 107.10000000000001 Winner: Indiana Pacers
+Cleveland Cavaliers, 91.35000000000001, Charlotte Hornets, 104.0 Winner: Charlotte Hornets
+Boston Celtics, 159.0, Miami Heat, 155.4 Winner: Boston Celtics
+Miami Heat, 154.0, Cleveland Cavaliers, 102.9 Winner: Miami Heat
+Brooklyn Nets, 109.0, Cleveland Cavaliers, 64.05 Winner: Brooklyn Nets
+Brooklyn Nets, 110.0, Detroit Pistons, 154.35 Winner: Detroit Pistons
+Boston Celtics, 176.4, Indiana Pacers, 111.0 Winner: Boston Celtics
+Milwaukee Bucks, 121.80000000000001, Indiana Pacers, 106.0 Winner: Milwaukee Bucks
+Orlando Magic, 139.65, Chicago Bulls, 101.0 Winner: Orlando Magic
+Orlando Magic, 144.0, New York Knicks, 140.70000000000002 Winner: Orlando Magic
+Brooklyn Nets, 128.1, Philadelphia 76ers, 103.0 Winner: Brooklyn Nets
+Cleveland Cavaliers, 82.0, Orlando Magic, 163.8 Winner: Orlando Magic
+Brooklyn Nets, 108.15, Orlando Magic, 148.0 Winner: Orlando Magic
+Atlanta Hawks, 109.0, Charlotte Hornets, 91.35000000000001 Winner: Atlanta Hawks
+Miami Heat, 159.6, Detroit Pistons, 121.0 Winner: Miami Heat
+Charlotte Hornets, 98.7, Milwaukee Bucks, 111.0 Winner: Milwaukee Bucks
+Brooklyn Nets, 111.0, Chicago Bulls, 114.45 Winner: Chicago Bulls
+Miami Heat, 149.0, Chicago Bulls, 102.9 Winner: Miami Heat
+New York Knicks, 142.8, Charlotte Hornets, 97.0 Winner: New York Knicks
+Charlotte Hornets, 95.55, Milwaukee Bucks, 118.0 Winner: Milwaukee Bucks
+Washington Wizards, 108.0, Boston Celtics, 158.55 Winner: Boston Celtics
+Toronto Raptors, 118.0, Miami Heat, 144.9 Winner: Miami Heat
+Charlotte Hornets, 84.0, Philadelphia 76ers, 126.0 Winner: Philadelphia 76ers
+Charlotte Hornets, 96.60000000000001, Philadelphia 76ers, 90.0 Winner: Charlotte Hornets
+Philadelphia 76ers, 98.7, Toronto Raptors, 115.0 Winner: Toronto Raptors
+Atlanta Hawks, 140.70000000000002, Washington Wizards, 120.0 Winner: Atlanta Hawks
+Washington Wizards, 132.0, Miami Heat, 164.85 Winner: Miami Heat
+Milwaukee Bucks, 133.35, Boston Celtics, 140.0 Winner: Boston Celtics
+Indiana Pacers, 101.85000000000001, Charlotte Hornets, 87.0 Winner: Indiana Pacers
+Charlotte Hornets, 85.05, New York Knicks, 126.0 Winner: New York Knicks
+Milwaukee Bucks, 114.0, Detroit Pistons, 140.70000000000002 Winner: Detroit Pistons
+Detroit Pistons, 117.0, Orlando Magic, 164.85 Winner: Orlando Magic
+New York Knicks, 130.0, Charlotte Hornets, 81.9 Winner: New York Knicks
+Chicago Bulls, 100.80000000000001, Detroit Pistons, 116.0 Winner: Detroit Pistons
+Detroit Pistons, 146.0, Miami Heat, 152.25 Winner: Miami Heat
+Detroit Pistons, 127.0, Your Team, 150.15 Winner: Your Team
+Philadelphia 76ers, 108.0, Brooklyn Nets, 100.80000000000001 Winner: Philadelphia 76ers
+Milwaukee Bucks, 132.0, Washington Wizards, 132.3 Winner: Washington Wizards
+Detroit Pistons, 134.4, Atlanta Hawks, 112.0 Winner: Detroit Pistons
+Atlanta Hawks, 136.5, Philadelphia 76ers, 95.0 Winner: Atlanta Hawks
+Atlanta Hawks, 128.1, Indiana Pacers, 107.0 Winner: Atlanta Hawks
+Chicago Bulls, 78.75, Philadelphia 76ers, 103.0 Winner: Philadelphia 76ers
+Your Team, 153.3, Brooklyn Nets, 121.0 Winner: Your Team
+Indiana Pacers, 108.0, Miami Heat, 156.45000000000002 Winner: Miami Heat
+Toronto Raptors, 118.65, Cleveland Cavaliers, 73.0 Winner: Toronto Raptors
+Atlanta Hawks, 127.05000000000001, Philadelphia 76ers, 81.0 Winner: Atlanta Hawks
+Milwaukee Bucks, 128.0, Orlando Magic, 151.20000000000002 Winner: Orlando Magic
+Detroit Pistons, 127.0, Miami Heat, 145.95000000000002 Winner: Miami Heat
+Orlando Magic, 165.9, Brooklyn Nets, 114.0 Winner: Orlando Magic
+Atlanta Hawks, 134.0, Chicago Bulls, 80.85000000000001 Winner: Atlanta Hawks
+Milwaukee Bucks, 115.0, Indiana Pacers, 131.25 Winner: Indiana Pacers
+Miami Heat, 148.0, Philadelphia 76ers, 93.45 Winner: Miami Heat
+Charlotte Hornets, 88.2, Miami Heat, 167.0 Winner: Miami Heat
+Detroit Pistons, 148.05, Orlando Magic, 132.0 Winner: Detroit Pistons
+Philadelphia 76ers, 88.0, Toronto Raptors, 139.65 Winner: Toronto Raptors
+Washington Wizards, 97.0, Miami Heat, 152.25 Winner: Miami Heat
+Your Team, 147.0, Philadelphia 76ers, 85.05 Winner: Your Team
+Charlotte Hornets, 105.0, Toronto Raptors, 129.15 Winner: Toronto Raptors
+Miami Heat, 150.15, Washington Wizards, 133.0 Winner: Miami Heat
+Washington Wizards, 136.5, Brooklyn Nets, 123.0 Winner: Washington Wizards
+Charlotte Hornets, 107.10000000000001, Washington Wizards, 146.0 Winner: Washington Wizards
+Boston Celtics, 139.65, Miami Heat, 147.0 Winner: Miami Heat
+Philadelphia 76ers, 97.65, Toronto Raptors, 125.0 Winner: Toronto Raptors
+Toronto Raptors, 113.0, Chicago Bulls, 89.25 Winner: Toronto Raptors
+Philadelphia 76ers, 100.0, New York Knicks, 142.8 Winner: New York Knicks
+Chicago Bulls, 85.0, Washington Wizards, 124.95 Winner: Washington Wizards
+New York Knicks, 145.95000000000002, Brooklyn Nets, 113.0 Winner: New York Knicks
+Milwaukee Bucks, 115.0, Detroit Pistons, 147.0 Winner: Detroit Pistons
+Charlotte Hornets, 78.75, Atlanta Hawks, 123.0 Winner: Atlanta Hawks
+Cleveland Cavaliers, 89.0, Brooklyn Nets, 112.35000000000001 Winner: Brooklyn Nets
+Cleveland Cavaliers, 83.0, Boston Celtics, 170.1 Winner: Boston Celtics
+Indiana Pacers, 94.0, Detroit Pistons, 148.05 Winner: Detroit Pistons
+Atlanta Hawks, 113.4, Brooklyn Nets, 112.0 Winner: Atlanta Hawks
+Boston Celtics, 190.05, Toronto Raptors, 115.0 Winner: Boston Celtics
+Cleveland Cavaliers, 87.15, Philadelphia 76ers, 98.0 Winner: Philadelphia 76ers
+Cleveland Cavaliers, 89.0, Atlanta Hawks, 136.5 Winner: Atlanta Hawks
+Miami Heat, 171.15, Milwaukee Bucks, 133.0 Winner: Miami Heat
+Chicago Bulls, 94.5, Washington Wizards, 119.0 Winner: Washington Wizards
+Boston Celtics, 148.0, Indiana Pacers, 111.30000000000001 Winner: Boston Celtics
+Boston Celtics, 149.0, Washington Wizards, 117.60000000000001 Winner: Boston Celtics
+Your Team, 138.0, Toronto Raptors, 121.80000000000001 Winner: Your Team
+Cleveland Cavaliers, 101.0, Your Team, 136.5 Winner: Your Team
+Washington Wizards, 130.20000000000002, New York Knicks, 142.0 Winner: New York Knicks
+Indiana Pacers, 113.4, Washington Wizards, 118.0 Winner: Washington Wizards
+Milwaukee Bucks, 119.0, Brooklyn Nets, 117.60000000000001 Winner: Milwaukee Bucks
+Brooklyn Nets, 121.0, Chicago Bulls, 116.55000000000001 Winner: Brooklyn Nets
+Your Team, 129.15, Detroit Pistons, 163.0 Winner: Detroit Pistons
+Detroit Pistons, 151.0, Miami Heat, 145.95000000000002 Winner: Detroit Pistons
+Cleveland Cavaliers, 86.0, Miami Heat, 156.45000000000002 Winner: Miami Heat
+Chicago Bulls, 88.0, Miami Heat, 137.55 Winner: Miami Heat
+Indiana Pacers, 87.0, Detroit Pistons, 135.45000000000002 Winner: Detroit Pistons
+Brooklyn Nets, 119.0, Your Team, 140.70000000000002 Winner: Your Team
+Washington Wizards, 110.0, Cleveland Cavaliers, 89.25 Winner: Washington Wizards
+New York Knicks, 139.65, Atlanta Hawks, 119.0 Winner: New York Knicks
+Brooklyn Nets, 118.65, New York Knicks, 138.0 Winner: New York Knicks
+Atlanta Hawks, 117.0, Washington Wizards, 137.55 Winner: Washington Wizards
+Washington Wizards, 149.1, New York Knicks, 123.0 Winner: Washington Wizards
+Washington Wizards, 117.0, Boston Celtics, 148.05 Winner: Boston Celtics
+Milwaukee Bucks, 132.3, Miami Heat, 138.0 Winner: Miami Heat
+Detroit Pistons, 145.95000000000002, Atlanta Hawks, 134.0 Winner: Detroit Pistons
+Washington Wizards, 107.0, Your Team, 143.85 Winner: Your Team
+Miami Heat, 156.45000000000002, Orlando Magic, 167.0 Winner: Orlando Magic
+Chicago Bulls, 87.0, Milwaukee Bucks, 139.65 Winner: Milwaukee Bucks
+Cleveland Cavaliers, 99.0, Atlanta Hawks, 117.60000000000001 Winner: Atlanta Hawks
+Milwaukee Bucks, 144.0, Miami Heat, 165.9 Winner: Miami Heat
+Detroit Pistons, 142.0, New York Knicks, 139.65 Winner: Detroit Pistons
+Your Team, 139.65, Chicago Bulls, 80.0 Winner: Your Team
+Orlando Magic, 147.0, Milwaukee Bucks, 115.0 Winner: Orlando Magic
+Miami Heat, 152.25, Charlotte Hornets, 92.0 Winner: Miami Heat
+Chicago Bulls, 99.75, Atlanta Hawks, 119.0 Winner: Atlanta Hawks
+Philadelphia 76ers, 97.0, Your Team, 131.25 Winner: Your Team
+Philadelphia 76ers, 101.85000000000001, Cleveland Cavaliers, 85.0 Winner: Philadelphia 76ers
+Toronto Raptors, 121.0, Chicago Bulls, 103.95 Winner: Toronto Raptors
+Indiana Pacers, 104.0, Boston Celtics, 138.6 Winner: Boston Celtics
+Milwaukee Bucks, 133.35, Brooklyn Nets, 100.0 Winner: Milwaukee Bucks
+Orlando Magic, 179.55, Washington Wizards, 120.0 Winner: Orlando Magic
+Charlotte Hornets, 74.0, Philadelphia 76ers, 101.85000000000001 Winner: Philadelphia 76ers
+Philadelphia 76ers, 100.0, Your Team, 160.65 Winner: Your Team
+Atlanta Hawks, 132.3, Your Team, 124.0 Winner: Atlanta Hawks
+Milwaukee Bucks, 145.0, Your Team, 137.55 Winner: Milwaukee Bucks
+Brooklyn Nets, 123.0, Miami Heat, 157.5 Winner: Miami Heat
+Orlando Magic, 163.8, Charlotte Hornets, 86.0 Winner: Orlando Magic
+Chicago Bulls, 103.0, Philadelphia 76ers, 101.85000000000001 Winner: Chicago Bulls
+Cleveland Cavaliers, 90.3, Washington Wizards, 111.0 Winner: Washington Wizards
+Boston Celtics, 186.9, Atlanta Hawks, 119.0 Winner: Boston Celtics
+Indiana Pacers, 94.0, Brooklyn Nets, 132.3 Winner: Brooklyn Nets
+New York Knicks, 127.0, Milwaukee Bucks, 109.2 Winner: New York Knicks
+Chicago Bulls, 95.55, New York Knicks, 118.0 Winner: New York Knicks
+Orlando Magic, 168.0, Chicago Bulls, 87.0 Winner: Orlando Magic
+Indiana Pacers, 102.0, Toronto Raptors, 128.1 Winner: Toronto Raptors
+Miami Heat, 119.7, Your Team, 118.0 Winner: Miami Heat
+Chicago Bulls, 96.0, Toronto Raptors, 144.9 Winner: Toronto Raptors
+Brooklyn Nets, 115.5, Chicago Bulls, 84.0 Winner: Brooklyn Nets
+New York Knicks, 144.0, Indiana Pacers, 119.7 Winner: New York Knicks
+Detroit Pistons, 140.0, Philadelphia 76ers, 94.5 Winner: Detroit Pistons
+Indiana Pacers, 127.05000000000001, Boston Celtics, 148.0 Winner: Boston Celtics
+Cleveland Cavaliers, 110.25, Brooklyn Nets, 103.0 Winner: Cleveland Cavaliers
+Your Team, 140.0, Orlando Magic, 162.75 Winner: Orlando Magic
+Toronto Raptors, 142.8, Chicago Bulls, 82.0 Winner: Toronto Raptors
+Cleveland Cavaliers, 76.65, Brooklyn Nets, 129.0 Winner: Brooklyn Nets
+Indiana Pacers, 106.05000000000001, Cleveland Cavaliers, 88.0 Winner: Indiana Pacers
+Toronto Raptors, 146.0, Detroit Pistons, 126.0 Winner: Toronto Raptors
+Cleveland Cavaliers, 91.0, Your Team, 122.85000000000001 Winner: Your Team
+Atlanta Hawks, 128.0, Cleveland Cavaliers, 73.5 Winner: Atlanta Hawks
+New York Knicks, 129.0, Brooklyn Nets, 118.65 Winner: New York Knicks
+Toronto Raptors, 132.3, Indiana Pacers, 96.0 Winner: Toronto Raptors
+Indiana Pacers, 105.0, New York Knicks, 159.6 Winner: New York Knicks
+Atlanta Hawks, 132.3, Toronto Raptors, 139.0 Winner: Toronto Raptors
+Brooklyn Nets, 120.75, Toronto Raptors, 127.0 Winner: Toronto Raptors
+Toronto Raptors, 132.3, Detroit Pistons, 130.0 Winner: Toronto Raptors
+Toronto Raptors, 111.0, Boston Celtics, 173.25 Winner: Boston Celtics
+Cleveland Cavaliers, 98.7, Detroit Pistons, 131.0 Winner: Detroit Pistons
+Boston Celtics, 162.0, Brooklyn Nets, 109.2 Winner: Boston Celtics
+Atlanta Hawks, 130.20000000000002, Philadelphia 76ers, 95.0 Winner: Atlanta Hawks
+Detroit Pistons, 131.0, Atlanta Hawks, 130.20000000000002 Winner: Detroit Pistons
+Atlanta Hawks, 127.05000000000001, New York Knicks, 124.0 Winner: Atlanta Hawks
+Boston Celtics, 158.0, New York Knicks, 133.35 Winner: Boston Celtics
+Boston Celtics, 164.0, Your Team, 137.55 Winner: Boston Celtics
+Orlando Magic, 159.0, Boston Celtics, 168.0 Winner: Boston Celtics
+Boston Celtics, 160.0, Detroit Pistons, 150.15 Winner: Boston Celtics
+Your Team, 142.0, Chicago Bulls, 92.4 Winner: Your Team
+Your Team, 135.45000000000002, Chicago Bulls, 96.0 Winner: Your Team
+Cleveland Cavaliers, 98.0, Boston Celtics, 134.4 Winner: Boston Celtics
+Cleveland Cavaliers, 89.0, Boston Celtics, 180.6 Winner: Boston Celtics
+Toronto Raptors, 118.0, Detroit Pistons, 120.75 Winner: Detroit Pistons
+Orlando Magic, 161.0, Miami Heat, 142.8 Winner: Orlando Magic
+New York Knicks, 144.9, Boston Celtics, 153.0 Winner: Boston Celtics
+Atlanta Hawks, 112.0, Your Team, 112.35000000000001 Winner: Your Team
+Detroit Pistons, 142.0, Orlando Magic, 163.8 Winner: Orlando Magic
+Boston Celtics, 164.0, Your Team, 147.0 Winner: Boston Celtics
+Detroit Pistons, 73.0, Charlotte Hornets, 129.15 Winner: Charlotte Hornets
+Your Team, 131.25, Milwaukee Bucks, 96.0 Winner: Your Team
+Charlotte Hornets, 116.55000000000001, New York Knicks, 94.0 Winner: Charlotte Hornets
+Boston Celtics, 134.0, New York Knicks, 73.5 Winner: Boston Celtics
+Indiana Pacers, 103.0, Philadelphia 76ers, 106.05000000000001 Winner: Philadelphia 76ers
+Chicago Bulls, 164.85, Detroit Pistons, 87.0 Winner: Chicago Bulls
+Brooklyn Nets, 122.0, Charlotte Hornets, 128.1 Winner: Charlotte Hornets
+Philadelphia 76ers, 118.65, Charlotte Hornets, 106.0 Winner: Philadelphia 76ers
+Philadelphia 76ers, 114.45, Orlando Magic, 163.0 Winner: Orlando Magic
+Boston Celtics, 138.6, Toronto Raptors, 139.0 Winner: Toronto Raptors
+Brooklyn Nets, 138.6, Chicago Bulls, 164.0 Winner: Chicago Bulls
+Miami Heat, 103.0, New York Knicks, 89.25 Winner: Miami Heat
+Washington Wizards, 166.0, Boston Celtics, 141.75 Winner: Washington Wizards
+Indiana Pacers, 115.5, Orlando Magic, 170.0 Winner: Orlando Magic
+Toronto Raptors, 141.0, Chicago Bulls, 174.3 Winner: Chicago Bulls
+Atlanta Hawks, 141.0, Philadelphia 76ers, 116.55000000000001 Winner: Atlanta Hawks
+Charlotte Hornets, 124.0, Atlanta Hawks, 118.65 Winner: Charlotte Hornets
+Washington Wizards, 157.0, Boston Celtics, 132.3 Winner: Washington Wizards
+Your Team, 106.0, Philadelphia 76ers, 105.0 Winner: Your Team
+Your Team, 131.25, Milwaukee Bucks, 96.0 Winner: Your Team
+Washington Wizards, 172.0, Detroit Pistons, 76.65 Winner: Washington Wizards
+Toronto Raptors, 132.3, Atlanta Hawks, 109.0 Winner: Toronto Raptors
+Milwaukee Bucks, 95.55, Cleveland Cavaliers, 101.0 Winner: Cleveland Cavaliers
+Philadelphia 76ers, 114.0, Orlando Magic, 164.85 Winner: Orlando Magic
+Chicago Bulls, 155.0, Cleveland Cavaliers, 102.9 Winner: Chicago Bulls
+Your Team, 113.4, Toronto Raptors, 128.0 Winner: Toronto Raptors
+Charlotte Hornets, 135.45000000000002, Your Team, 102.0 Winner: Charlotte Hornets
+Philadelphia 76ers, 104.0, Indiana Pacers, 86.10000000000001 Winner: Philadelphia 76ers
+Philadelphia 76ers, 122.0, Toronto Raptors, 127.05000000000001 Winner: Toronto Raptors
+Charlotte Hornets, 114.0, Milwaukee Bucks, 95.55 Winner: Charlotte Hornets
+Milwaukee Bucks, 94.0, Cleveland Cavaliers, 103.95 Winner: Cleveland Cavaliers
+Washington Wizards, 178.5, Cleveland Cavaliers, 110.0 Winner: Washington Wizards
+Charlotte Hornets, 137.0, Boston Celtics, 138.6 Winner: Boston Celtics
+Philadelphia 76ers, 122.85000000000001, Indiana Pacers, 99.0 Winner: Philadelphia 76ers
+Chicago Bulls, 148.0, Brooklyn Nets, 121.80000000000001 Winner: Chicago Bulls
+Milwaukee Bucks, 119.0, Miami Heat, 109.2 Winner: Milwaukee Bucks
+Miami Heat, 92.0, Toronto Raptors, 119.7 Winner: Toronto Raptors
+Washington Wizards, 157.0, New York Knicks, 95.55 Winner: Washington Wizards
+Brooklyn Nets, 128.0, Your Team, 117.60000000000001 Winner: Brooklyn Nets
+Brooklyn Nets, 127.05000000000001, Philadelphia 76ers, 106.0 Winner: Brooklyn Nets
+Your Team, 112.35000000000001, New York Knicks, 75.0 Winner: Your Team
+Indiana Pacers, 95.55, Toronto Raptors, 145.0 Winner: Toronto Raptors
+Orlando Magic, 141.75, Milwaukee Bucks, 82.0 Winner: Orlando Magic
+Orlando Magic, 155.4, Detroit Pistons, 80.0 Winner: Orlando Magic
+Indiana Pacers, 102.9, Chicago Bulls, 165.0 Winner: Chicago Bulls
+New York Knicks, 94.0, Washington Wizards, 179.55 Winner: Washington Wizards
+Detroit Pistons, 82.95, Milwaukee Bucks, 120.0 Winner: Milwaukee Bucks
+Toronto Raptors, 150.0, Charlotte Hornets, 115.5 Winner: Toronto Raptors
+Your Team, 95.0, Orlando Magic, 151.20000000000002 Winner: Orlando Magic
+Toronto Raptors, 145.95000000000002, Detroit Pistons, 85.0 Winner: Toronto Raptors
+Toronto Raptors, 142.0, New York Knicks, 91.35000000000001 Winner: Toronto Raptors
+Philadelphia 76ers, 115.5, Orlando Magic, 176.0 Winner: Orlando Magic
+Washington Wizards, 187.95000000000002, Your Team, 113.0 Winner: Washington Wizards
+New York Knicks, 88.0, Miami Heat, 100.80000000000001 Winner: Miami Heat
+Your Team, 122.0, Boston Celtics, 158.55 Winner: Boston Celtics
+Your Team, 127.0, Miami Heat, 131.25 Winner: Miami Heat
+Brooklyn Nets, 135.0, Orlando Magic, 151.20000000000002 Winner: Orlando Magic
+Orlando Magic, 154.35, Detroit Pistons, 79.0 Winner: Orlando Magic
+Washington Wizards, 165.9, Chicago Bulls, 152.0 Winner: Washington Wizards
+Milwaukee Bucks, 94.5, Miami Heat, 88.0 Winner: Milwaukee Bucks
+Toronto Raptors, 115.5, Milwaukee Bucks, 112.0 Winner: Toronto Raptors
+New York Knicks, 101.85000000000001, Chicago Bulls, 146.0 Winner: Chicago Bulls
+Philadelphia 76ers, 97.65, Orlando Magic, 156.0 Winner: Orlando Magic
+Miami Heat, 113.0, Indiana Pacers, 85.05 Winner: Miami Heat
+Cleveland Cavaliers, 105.0, Washington Wizards, 163.8 Winner: Washington Wizards
+Miami Heat, 110.25, Chicago Bulls, 149.0 Winner: Chicago Bulls
+Chicago Bulls, 164.85, Miami Heat, 111.0 Winner: Chicago Bulls
+Boston Celtics, 156.45000000000002, Milwaukee Bucks, 108.0 Winner: Boston Celtics
+Philadelphia 76ers, 112.35000000000001, Your Team, 118.0 Winner: Your Team
+Your Team, 97.0, Boston Celtics, 144.9 Winner: Boston Celtics
+Brooklyn Nets, 138.6, Chicago Bulls, 155.0 Winner: Chicago Bulls
+Washington Wizards, 145.0, Toronto Raptors, 161.70000000000002 Winner: Toronto Raptors
+Indiana Pacers, 82.0, Detroit Pistons, 61.95 Winner: Indiana Pacers
+Philadelphia 76ers, 105.0, Miami Heat, 108.0 Winner: Miami Heat
+Your Team, 114.0, Cleveland Cavaliers, 107.10000000000001 Winner: Your Team
+Indiana Pacers, 77.7, Boston Celtics, 149.0 Winner: Boston Celtics
+New York Knicks, 93.0, Your Team, 106.05000000000001 Winner: Your Team
+Philadelphia 76ers, 115.0, Detroit Pistons, 95.55 Winner: Philadelphia 76ers
+Atlanta Hawks, 138.0, Orlando Magic, 169.05 Winner: Orlando Magic
+Charlotte Hornets, 127.05000000000001, Atlanta Hawks, 130.0 Winner: Atlanta Hawks
+Miami Heat, 94.5, Charlotte Hornets, 116.0 Winner: Charlotte Hornets
+Orlando Magic, 173.0, Chicago Bulls, 147.0 Winner: Orlando Magic
+Chicago Bulls, 177.45000000000002, Toronto Raptors, 134.0 Winner: Chicago Bulls
+Toronto Raptors, 126.0, Atlanta Hawks, 149.1 Winner: Atlanta Hawks
+Atlanta Hawks, 145.95000000000002, Philadelphia 76ers, 144.0 Winner: Atlanta Hawks
+Miami Heat, 97.0, Orlando Magic, 145.95000000000002 Winner: Orlando Magic
+Your Team, 97.0, Chicago Bulls, 165.9 Winner: Chicago Bulls
+Charlotte Hornets, 135.45000000000002, Washington Wizards, 155.0 Winner: Washington Wizards
+Boston Celtics, 143.85, Washington Wizards, 165.0 Winner: Washington Wizards
+Boston Celtics, 135.0, Indiana Pacers, 96.60000000000001 Winner: Boston Celtics
+Milwaukee Bucks, 83.0, Philadelphia 76ers, 105.0 Winner: Philadelphia 76ers
+Indiana Pacers, 93.0, Orlando Magic, 165.9 Winner: Orlando Magic
+Indiana Pacers, 99.0, Washington Wizards, 160.65 Winner: Washington Wizards
+Philadelphia 76ers, 118.65, Orlando Magic, 149.0 Winner: Orlando Magic
+Milwaukee Bucks, 102.0, Toronto Raptors, 126.0 Winner: Toronto Raptors
+Indiana Pacers, 100.0, Cleveland Cavaliers, 99.75 Winner: Indiana Pacers
+Cleveland Cavaliers, 102.0, Charlotte Hornets, 136.5 Winner: Charlotte Hornets
+New York Knicks, 79.8, Philadelphia 76ers, 117.0 Winner: Philadelphia 76ers
+Toronto Raptors, 148.0, Charlotte Hornets, 121.80000000000001 Winner: Toronto Raptors
+Charlotte Hornets, 106.05000000000001, Cleveland Cavaliers, 95.0 Winner: Charlotte Hornets
+Your Team, 91.0, Washington Wizards, 165.9 Winner: Washington Wizards
+Detroit Pistons, 105.0, Indiana Pacers, 84.0 Winner: Detroit Pistons
+Toronto Raptors, 173.25, Miami Heat, 100.0 Winner: Toronto Raptors
+Indiana Pacers, 84.0, Chicago Bulls, 155.0 Winner: Chicago Bulls
+Brooklyn Nets, 141.75, Detroit Pistons, 98.0 Winner: Brooklyn Nets
+Cleveland Cavaliers, 131.25, Brooklyn Nets, 146.0 Winner: Brooklyn Nets
+Milwaukee Bucks, 84.0, Boston Celtics, 156.45000000000002 Winner: Boston Celtics
+Orlando Magic, 175.0, Milwaukee Bucks, 127.05000000000001 Winner: Orlando Magic
+Orlando Magic, 177.0, New York Knicks, 101.85000000000001 Winner: Orlando Magic
+Atlanta Hawks, 129.0, Philadelphia 76ers, 119.7 Winner: Atlanta Hawks
+Detroit Pistons, 78.0, Brooklyn Nets, 124.95 Winner: Brooklyn Nets
+New York Knicks, 72.45, Your Team, 114.0 Winner: Your Team
+Indiana Pacers, 106.05000000000001, Toronto Raptors, 155.0 Winner: Toronto Raptors
+Toronto Raptors, 136.5, Chicago Bulls, 141.0 Winner: Chicago Bulls
+Indiana Pacers, 76.0, Cleveland Cavaliers, 90.3 Winner: Cleveland Cavaliers
+Atlanta Hawks, 115.5, Chicago Bulls, 154.0 Winner: Chicago Bulls
+Brooklyn Nets, 148.0, Orlando Magic, 170.1 Winner: Orlando Magic
+Brooklyn Nets, 156.0, Toronto Raptors, 133.35 Winner: Brooklyn Nets
+Chicago Bulls, 157.5, Indiana Pacers, 94.0 Winner: Chicago Bulls
+Chicago Bulls, 155.4, Atlanta Hawks, 119.0 Winner: Chicago Bulls
+Cleveland Cavaliers, 122.85000000000001, Chicago Bulls, 151.0 Winner: Chicago Bulls
+Atlanta Hawks, 139.0, Toronto Raptors, 159.6 Winner: Toronto Raptors
+Boston Celtics, 139.0, Miami Heat, 119.7 Winner: Boston Celtics
+Chicago Bulls, 177.45000000000002, Detroit Pistons, 107.0 Winner: Chicago Bulls
+Miami Heat, 113.0, New York Knicks, 74.55 Winner: Miami Heat
+Atlanta Hawks, 142.8, Boston Celtics, 135.0 Winner: Atlanta Hawks
+Milwaukee Bucks, 103.95, Boston Celtics, 130.0 Winner: Boston Celtics
+Chicago Bulls, 163.0, Indiana Pacers, 99.75 Winner: Chicago Bulls
+Chicago Bulls, 161.70000000000002, Miami Heat, 98.0 Winner: Chicago Bulls
+Orlando Magic, 160.65, Detroit Pistons, 74.0 Winner: Orlando Magic
+Philadelphia 76ers, 116.0, Your Team, 124.95 Winner: Your Team
+Cleveland Cavaliers, 97.0, Indiana Pacers, 92.4 Winner: Cleveland Cavaliers
+Orlando Magic, 161.0, Chicago Bulls, 165.9 Winner: Chicago Bulls
+Milwaukee Bucks, 96.60000000000001, Cleveland Cavaliers, 100.0 Winner: Cleveland Cavaliers
+Charlotte Hornets, 123.9, Washington Wizards, 151.0 Winner: Washington Wizards
+Washington Wizards, 169.0, Detroit Pistons, 81.9 Winner: Washington Wizards
+Detroit Pistons, 75.60000000000001, Milwaukee Bucks, 107.0 Winner: Milwaukee Bucks
+Washington Wizards, 167.0, Toronto Raptors, 160.65 Winner: Washington Wizards
+Charlotte Hornets, 114.0, Philadelphia 76ers, 107.10000000000001 Winner: Charlotte Hornets
+Brooklyn Nets, 126.0, Washington Wizards, 192.15 Winner: Washington Wizards
+Atlanta Hawks, 130.20000000000002, Chicago Bulls, 150.0 Winner: Chicago Bulls
+Miami Heat, 114.45, Chicago Bulls, 158.0 Winner: Chicago Bulls
+Philadelphia 76ers, 121.0, New York Knicks, 67.2 Winner: Philadelphia 76ers
+New York Knicks, 93.45, Miami Heat, 110.0 Winner: Miami Heat
+Atlanta Hawks, 139.65, Chicago Bulls, 174.0 Winner: Chicago Bulls
+Cleveland Cavaliers, 102.0, Washington Wizards, 162.75 Winner: Washington Wizards
+Cleveland Cavaliers, 98.0, Brooklyn Nets, 148.05 Winner: Brooklyn Nets
+Atlanta Hawks, 113.0, Cleveland Cavaliers, 101.85000000000001 Winner: Atlanta Hawks
+Indiana Pacers, 89.0, Atlanta Hawks, 130.20000000000002 Winner: Atlanta Hawks
+New York Knicks, 91.0, Boston Celtics, 141.75 Winner: Boston Celtics
+Atlanta Hawks, 123.9, Your Team, 109.0 Winner: Atlanta Hawks
+Charlotte Hornets, 129.0, Orlando Magic, 180.6 Winner: Orlando Magic
+Miami Heat, 108.15, Washington Wizards, 160.0 Winner: Washington Wizards
+Cleveland Cavaliers, 117.0, Detroit Pistons, 77.7 Winner: Cleveland Cavaliers
+Orlando Magic, 139.0, Toronto Raptors, 134.4 Winner: Orlando Magic
+Philadelphia 76ers, 113.4, Detroit Pistons, 100.0 Winner: Philadelphia 76ers
+Chicago Bulls, 149.0, New York Knicks, 93.45 Winner: Chicago Bulls
+Boston Celtics, 138.6, New York Knicks, 91.0 Winner: Boston Celtics
+Chicago Bulls, 165.9, Charlotte Hornets, 114.0 Winner: Chicago Bulls
+Washington Wizards, 154.35, Miami Heat, 103.0 Winner: Washington Wizards
+Charlotte Hornets, 124.0, Toronto Raptors, 140.70000000000002 Winner: Toronto Raptors
+Cleveland Cavaliers, 86.0, Washington Wizards, 172.20000000000002 Winner: Washington Wizards
+Your Team, 117.60000000000001, Cleveland Cavaliers, 88.0 Winner: Your Team
+Cleveland Cavaliers, 99.75, Washington Wizards, 152.0 Winner: Washington Wizards
+Miami Heat, 129.15, Milwaukee Bucks, 101.0 Winner: Miami Heat
+New York Knicks, 92.0, Charlotte Hornets, 123.9 Winner: Charlotte Hornets
+Indiana Pacers, 93.0, Philadelphia 76ers, 112.35000000000001 Winner: Philadelphia 76ers
+Charlotte Hornets, 133.0, Chicago Bulls, 159.6 Winner: Chicago Bulls
+Philadelphia 76ers, 130.20000000000002, Brooklyn Nets, 137.0 Winner: Brooklyn Nets
+New York Knicks, 86.0, Indiana Pacers, 106.05000000000001 Winner: Indiana Pacers
+New York Knicks, 101.85000000000001, Detroit Pistons, 72.0 Winner: New York Knicks
+Miami Heat, 96.60000000000001, Cleveland Cavaliers, 90.0 Winner: Miami Heat
+Washington Wizards, 170.0, Atlanta Hawks, 140.70000000000002 Winner: Washington Wizards
+Detroit Pistons, 86.10000000000001, Boston Celtics, 134.0 Winner: Boston Celtics
+Chicago Bulls, 146.0, Charlotte Hornets, 127.05000000000001 Winner: Chicago Bulls
+Toronto Raptors, 136.5, Charlotte Hornets, 112.0 Winner: Toronto Raptors
+Chicago Bulls, 155.0, Orlando Magic, 164.85 Winner: Orlando Magic
+Milwaukee Bucks, 102.9, Orlando Magic, 149.0 Winner: Orlando Magic
+Washington Wizards, 157.0, Milwaukee Bucks, 101.85000000000001 Winner: Washington Wizards
+Detroit Pistons, 94.5, Cleveland Cavaliers, 92.0 Winner: Detroit Pistons
+Brooklyn Nets, 131.0, Milwaukee Bucks, 115.5 Winner: Brooklyn Nets
+Detroit Pistons, 89.0, Indiana Pacers, 102.9 Winner: Indiana Pacers
+Indiana Pacers, 98.0, Philadelphia 76ers, 89.25 Winner: Indiana Pacers
+Charlotte Hornets, 96.60000000000001, Washington Wizards, 172.0 Winner: Washington Wizards
+Cleveland Cavaliers, 117.0, Atlanta Hawks, 136.5 Winner: Atlanta Hawks
+Atlanta Hawks, 119.7, Brooklyn Nets, 146.0 Winner: Brooklyn Nets
+Your Team, 106.05000000000001, Charlotte Hornets, 134.0 Winner: Charlotte Hornets
+Washington Wizards, 170.1, Milwaukee Bucks, 102.0 Winner: Washington Wizards
+Brooklyn Nets, 151.20000000000002, Philadelphia 76ers, 110.0 Winner: Brooklyn Nets
+Detroit Pistons, 87.0, Brooklyn Nets, 132.3 Winner: Brooklyn Nets
+Your Team, 117.60000000000001, Boston Celtics, 140.0 Winner: Boston Celtics
+Atlanta Hawks, 137.0, Orlando Magic, 172.20000000000002 Winner: Orlando Magic
+Indiana Pacers, 90.3, Charlotte Hornets, 120.0 Winner: Charlotte Hornets
+Washington Wizards, 185.85, Toronto Raptors, 146.0 Winner: Washington Wizards
+Philadelphia 76ers, 124.95, Toronto Raptors, 145.0 Winner: Toronto Raptors
+Detroit Pistons, 68.25, Philadelphia 76ers, 98.0 Winner: Philadelphia 76ers
+Indiana Pacers, 90.0, Washington Wizards, 178.5 Winner: Washington Wizards
+Miami Heat, 104.0, Boston Celtics, 140.70000000000002 Winner: Boston Celtics
+Your Team, 103.0, New York Knicks, 100.80000000000001 Winner: Your Team
+Brooklyn Nets, 126.0, Miami Heat, 113.4 Winner: Brooklyn Nets
+Brooklyn Nets, 133.0, Miami Heat, 102.9 Winner: Brooklyn Nets
+Cleveland Cavaliers, 111.30000000000001, Milwaukee Bucks, 94.0 Winner: Cleveland Cavaliers
+Atlanta Hawks, 131.0, Boston Celtics, 150.15 Winner: Boston Celtics
+Miami Heat, 81.0, Brooklyn Nets, 158.55 Winner: Brooklyn Nets
+Detroit Pistons, 95.55, New York Knicks, 93.0 Winner: Detroit Pistons
+Miami Heat, 97.65, Detroit Pistons, 61.0 Winner: Miami Heat
+Charlotte Hornets, 123.9, Brooklyn Nets, 131.0 Winner: Brooklyn Nets
+New York Knicks, 88.0, Detroit Pistons, 90.3 Winner: Detroit Pistons
+Your Team, 89.0, New York Knicks, 96.60000000000001 Winner: New York Knicks
+Charlotte Hornets, 120.75, Milwaukee Bucks, 100.0 Winner: Charlotte Hornets
+Washington Wizards, 163.0, Cleveland Cavaliers, 100.80000000000001 Winner: Washington Wizards
+Boston Celtics, 131.25, Brooklyn Nets, 104.0 Winner: Boston Celtics
+Detroit Pistons, 103.95, Milwaukee Bucks, 101.0 Winner: Detroit Pistons
+Toronto Raptors, 154.35, Your Team, 120.0 Winner: Toronto Raptors
+Milwaukee Bucks, 90.0, Atlanta Hawks, 118.65 Winner: Atlanta Hawks
+Cleveland Cavaliers, 119.0, Philadelphia 76ers, 103.95 Winner: Cleveland Cavaliers
+Orlando Magic, 175.0, Milwaukee Bucks, 106.05000000000001 Winner: Orlando Magic
+Brooklyn Nets, 134.0, Detroit Pistons, 79.8 Winner: Brooklyn Nets
+Boston Celtics, 141.0, Toronto Raptors, 139.65 Winner: Boston Celtics
+Brooklyn Nets, 121.0, Washington Wizards, 172.20000000000002 Winner: Washington Wizards
+New York Knicks, 103.95, Philadelphia 76ers, 77.0 Winner: New York Knicks
+Indiana Pacers, 69.0, Detroit Pistons, 87.15 Winner: Detroit Pistons
+Atlanta Hawks, 129.15, Charlotte Hornets, 129.0 Winner: Atlanta Hawks
+Detroit Pistons, 73.0, Indiana Pacers, 100.80000000000001 Winner: Indiana Pacers
+Toronto Raptors, 152.0, Cleveland Cavaliers, 126.0 Winner: Toronto Raptors
+Orlando Magic, 179.0, Cleveland Cavaliers, 106.05000000000001 Winner: Orlando Magic
+Orlando Magic, 158.55, Toronto Raptors, 137.0 Winner: Orlando Magic
+Cleveland Cavaliers, 99.75, Milwaukee Bucks, 91.0 Winner: Cleveland Cavaliers
+Toronto Raptors, 140.0, Your Team, 123.9 Winner: Toronto Raptors
+Your Team, 116.55000000000001, Atlanta Hawks, 104.0 Winner: Your Team
+Atlanta Hawks, 126.0, Cleveland Cavaliers, 109.0 Winner: Atlanta Hawks
+Boston Celtics, 144.0, Milwaukee Bucks, 90.3 Winner: Boston Celtics
+Your Team, 109.2, Charlotte Hornets, 114.0 Winner: Charlotte Hornets
+Detroit Pistons, 82.95, Miami Heat, 121.0 Winner: Miami Heat
+Milwaukee Bucks, 88.2, Charlotte Hornets, 119.0 Winner: Charlotte Hornets
+New York Knicks, 96.60000000000001, Miami Heat, 99.0 Winner: Miami Heat
+Cleveland Cavaliers, 100.0, Brooklyn Nets, 126.0 Winner: Brooklyn Nets
+Orlando Magic, 148.05, Indiana Pacers, 113.0 Winner: Orlando Magic
+Your Team, 93.45, Miami Heat, 114.0 Winner: Miami Heat
+Miami Heat, 100.0, Your Team, 127.05000000000001 Winner: Your Team
+Orlando Magic, 152.0, Your Team, 123.9 Winner: Orlando Magic
+Brooklyn Nets, 151.0, Boston Celtics, 123.9 Winner: Brooklyn Nets
+Miami Heat, 95.55, Boston Celtics, 123.0 Winner: Boston Celtics
+Orlando Magic, 151.20000000000002, Milwaukee Bucks, 101.0 Winner: Orlando Magic
+Toronto Raptors, 147.0, Charlotte Hornets, 121.0 Winner: Toronto Raptors
+Orlando Magic, 177.45000000000002, Washington Wizards, 174.0 Winner: Orlando Magic
+Chicago Bulls, 140.0, Brooklyn Nets, 127.05000000000001 Winner: Chicago Bulls
+Atlanta Hawks, 114.45, Boston Celtics, 123.0 Winner: Boston Celtics
+Toronto Raptors, 138.0, Orlando Magic, 175.35 Winner: Orlando Magic
+Chicago Bulls, 143.0, Boston Celtics, 159.6 Winner: Boston Celtics
